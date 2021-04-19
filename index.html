@@ -1,18 +1,193 @@
 <!doctype html>
-
 <html lang="en">
-<head>
-  <meta charset="utf-8">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Super Cyber Football League</title>
+        <link href="css/bootstrap.css"rel="stylesheet" type="text/css"><!--bootstrap local copy, CDN below for backup/updates-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+        <link href="css/scfl_Main.css" rel="stylesheet" type="text/css"><!--my personal stylesheet, overrides some bootstrap styling-->
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script><!--fontawesome icons-->
+        <script src="js/scfl.js"></script>
+    </head>
+<!------------------------------------------------------------>
+<!------------------------------------------------------------>
+    <body>
 
-  <title>Super Cyber Football League</title>
-  <meta name="description" content="Super Cyber Football League">
+        <header class="jumbotron scfl-banner">
+            <h1>
+                <a href="index.html" alt="main page">Super Cyber Football League</a>
+            </h1>
+        </header>
+        <nav class="navbar navbar-expand-sm bg-dark justify-content-center">
+            <ul  class="navbar-nav">
+                <li class="nav-item active"><a class="nav-link" href="index.html" alt="main page">
+                  <i class="fas fa-home fa-lg"></i>Home</a></li>
+                <li class="nav-item"><a  class="nav-link" href="scfl_playoffs.html">
+                  <i class="fas fa-football-ball fa-lg"></i>Scores</a></li>
+                <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+                  <i class="fas fa-list-ol fa-lg"></i>Standings</a>
+                  <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Northern Conference</a>
+                    <a class="dropdown-item" href="#">Southern Conference</a>
+                    <a class="dropdown-item" href="#">Independants</a>
+                    <a class="dropdown-item" href="#">Rankings</a>
+                  </div>
+                </li>
+                <li class="nav-item"><a  class="nav-link" href="scfl_playoffs.html">
+                  <i class="fas fa-trophy fa-lg"></i>Playoffs</a></li>
 
-  <link rel="stylesheet" href="index.css">
+            </ul>
+        </nav>
 
-</head>
+<!------------------------------------------------------------->
 
-<body>
-  <h1>Sock Creature Football League</h1>
-  <script src="js/scripts.js"></script>
-</body>
+      <main>
+        <div class="container article-grid">
+          <div class="row">
+            <article class="scfl-article featured-article">
+              <img class="article-img" src="images/helmet-template.png"/>
+              <h3  onclick="">Article Title</h3>
+              <section>
+                <p>
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </p>
+              </section>
+            </article>
+          </div>
+
+
+        <article class="scfl-article">
+          <img class="article-img" src="images/helmet-template.png"/>
+          <h3  onclick="">Article Title</h3>
+          <section>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </section>
+        </article>
+
+        <article class="scfl-article">
+          <img class="article-img" src="images/helmet-template.png"/>
+          <h3  onclick="">Article Title</h3>
+          <section>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </section>
+        </article>
+
+        <article class="scfl-article">
+          <img class="article-img" src="images/helmet-template.png"/>
+          <h3  onclick="">Article Title</h3>
+          <section>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </section>
+        </article>
+
+        <article class="scfl-article">
+          <img class="article-img" src="images/helmet-template.png"/>
+          <h3  onclick="">Article Title</h3>
+          <section>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </p>
+          </section>
+        </article>
+
+        </div>
+
+                <div class="article-grid">
+
+                <article class="scfl-article">
+                  <img class="article-img" src="images/helmet-template.png"/>
+                  <h3  onclick="">Article Title</h3>
+                  <section>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                  </section>
+                </article>
+
+                <article class="scfl-article">
+                  <img class="article-img" src="images/helmet-template.png"/>
+                  <h3  onclick="">Article Title</h3>
+                  <section>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                  </section>
+                </article>
+
+                <article class="scfl-article">
+                  <img class="article-img" src="images/helmet-template.png"/>
+                  <h3  onclick="">Article Title</h3>
+                  <section>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                  </section>
+                </article>
+
+                <article class="scfl-article">
+                  <img class="article-img" src="images/helmet-template.png"/>
+                  <h3  onclick="">Article Title</h3>
+                  <section>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                  </section>
+                </article>
+
+                </div>
+                </div>
+<!--form below here----------------------------------->
+
+
+           <form class="subscribe">
+             <label for="name">Name:&nbsp</label>
+               <input type="text" id="name" name="name" /><br />
+             <label for="email">Email:&nbsp</label>
+               <input type="email" name="email" /><br />
+
+             <label for="fav-team">Favorite Team:</label><br />
+             <div class="row">
+               <div class="col-6">
+             <input type="radio" name="fav-team" id="countsville-Moose" />
+               <label for="countsville-Moose">Moose</label><br />
+             <input type="radio" name="fav-team" id="delstat-Ospreys" />
+               <label for="delstat-Ospreys">Ospreys</label><br />
+             <input type="radio" name="fav-team" id="bozeman-Aliens" />
+               <label for="bozeman-Aliens">Aliens</label><br />
+             <input type="radio" name="fav-team" id="ftCollins-Rocks" />
+               <label for="ftCollins-Rocks">Rocks</label><br />
+             <input type="radio" name="fav-team" id="stillwagon-Cows" />
+               <label for="stillwagon-Cows">Cows</label><br />
+             <input type="radio" name="fav-team" id="eastBend-Turtles" />
+               <label for="eastBend-Turtles">Turtles</label><br />
+             </div>
+
+             <div class="col-6">
+             <input type="radio" name="fav-team" id="arkham-Bats" />
+               <label for="arkham-Bats">Bats</label><br />
+             <input type="radio" name="fav-team" id="reefPt-Flyingfish" />
+               <label for="reefPt-Flyingfish">Flyingfish</label><br />
+             <input type="radio" name="fav-team" id="" /><br />
+             <input type="radio" name="fav-team" id="" /><br />
+             <input type="radio" name="fav-team" id="" /><br />
+             <input type="radio" name="fav-team" id="" /><br />
+             <input type="radio" name="fav-team" id="" /><br />
+             </div>
+             </div>
+
+             <input class="btn btn-light"type="submit" value="Submit">
+
+           </form>
+
+      </main>
+      <footer>&copy; Nicholas Loucks 2019</footer>
+    </body>
 </html>
