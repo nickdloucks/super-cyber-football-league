@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+main {
+  background-image: url('../images/gridiron-background-vt.png');
+}
