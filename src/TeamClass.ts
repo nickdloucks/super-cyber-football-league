@@ -9,10 +9,7 @@ class Team {
             name: name,
             city: city,
             abrv: abrv.toUpperCase(),
-            color1: colors[0],
-            color2: colors[1],
-            color3: colors[2],
-            color4: colors[3],
+            colors: colors
         }
         /*this.profile = {
             passO: undefined,
