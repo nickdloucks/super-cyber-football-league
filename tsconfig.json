@@ -1,8 +1,12 @@
 {
     "compilerOptions": {
-        "target": "es6",
-        "module": "es6",
-        "esModuleInterop": true,
-        "sourceMap": true
+      "lib": ["es2020"],
+      "module": "es2020",
+      "target": "es2020",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "allowSyntheticDefaultImports": true,
+      "forceConsistentCasingInFileNames": true
     }
-}
+  }
