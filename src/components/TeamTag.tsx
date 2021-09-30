@@ -1,15 +1,16 @@
 import React, { FC } from 'react';
 
 interface NameProps {
-  title: string;
+  title: string,
+  logo?: File;
 }
 
 const TeamTag: FC<NameProps> = ({ title }) => {
   return (
-    <React.Fragment>
+    <>
       <div>{/*logo here*/}</div>
       <div>{title}</div>
-    </React.Fragment>
+    </>
   );
 };
 
