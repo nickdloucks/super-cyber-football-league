@@ -2,6 +2,7 @@ import React, { FC } from 'react';
 
 interface NameProps {
   title: string;
+  logo: string;
 }
 
 const TeamTag: FC<NameProps> = ({ title }) => {
