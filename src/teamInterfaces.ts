@@ -3,7 +3,7 @@ export interface TeamProfile {
     city: string,
     abrv: string,
     colors: string[]
-    logo?: File
+    logo?: string
 }
 export interface TeamStats {
     // Yards:
