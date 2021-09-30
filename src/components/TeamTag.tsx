@@ -1,15 +1,15 @@
-import React, { FC } from 'react';
+import React, { FC } from 'react'; // React Functional Component
 
 interface NameProps {
-  title: string;
-  logo: string;
+  teamName: string; // the team's name
+  logo: string; // URL for the team's SVG logo
 }
 
-const TeamTag: FC<NameProps> = ({ title }) => {
+const TeamTag: FC<NameProps> = ({ teamName }) => {
   return (
     <>
-      <div>{/*logo here*/}</div>
-      <div>{title}</div>
+      <div>{/*DISPLAY logo here, not just URL string*/}</div>
+      <div>{teamName}</div>
     </>
   );
 };

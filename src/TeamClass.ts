@@ -12,7 +12,8 @@ class Team {
             abrv: abrv.toUpperCase(),
             colors: colors
         }
-        this.stats = {
+        this.stats = { // implement stats interface, initialize values to zero; 
+                        //will be updated as games are played
             passYds: 0,
             rushYds: 0,
             passDef: 0,
@@ -46,7 +47,7 @@ class Team {
 
 
 
-        /*this.profile = {
+        /*this.profile = { // this might be used as a sliding scale to determine how good each team is
             passO: undefined,
             rushO: undefined,
             passD: undefined,
@@ -54,7 +55,7 @@ class Team {
             kick: undefined,
             kickR: undefined,
         }*/
-        //this.games = {}
+        //this.games: object[] = []; // array of game objects
     }
 }
 
