@@ -2,7 +2,7 @@
   "short_name": "SCFL",
   "name": "Super Cyber Football League",
 
-  "start_url": "./index.html",
+  "start_url": "https://www.sockcreaturefootball.com/public/index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
