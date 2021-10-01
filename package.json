@@ -1,5 +1,6 @@
 {
   "name": "football_components",
+  "homepage": "https://nickdloucks.github.io/super-cyber-football-league",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
