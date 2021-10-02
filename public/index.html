@@ -12,12 +12,10 @@
 <!------------------------------------------------------------>
     <body>
 
-        <header class="jumbotron scfl-banner">
-            <h1>
-                <a href="index.html" alt="main page">Sock Creature Football League</a>
-            </h1>
+        <header class="scfl-banner">
+            <h1>Sock Creature Football League</h1>
         </header>
-        <nav class="navbar navbar-expand-sm bg-dark justify-content-center">
+        <nav class="navbar">
             <ul  class="navbar-nav">
                 <li class="nav-item active"><a class="nav-link" href="index.html" alt="main page">
                   <i class="fas fa-home fa-lg"></i>Home</a></li>
@@ -42,18 +40,18 @@
 
       <main>
         <div id="root"></div>
-        <div class="container article-grid">
-          <div class="row">
+        <!--^^^^ ROOT: ENTRY POINT FOR APP.js-->
+
+        <div class="article-grid">
             <article class="scfl-article featured-article">
-              <img class="article-img" src="../src/images/helmet-template.png"/>
-              <h3  onclick="">Article Title 1</h3>
+              <img class="article-img" src="../src/images/helmet3.svg"/>
+              <h3>Article Title 1</h3>
               <section>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
               </section>
             </article>
-          </div>
 
 
 <!--form below here----------------------------------->
@@ -66,8 +64,7 @@
                <input type="email" name="email" /><br />
 
              <label for="fav-team">Favorite Team:</label><br />
-             <div class="row">
-               <div class="col-6">
+
              <input type="radio" name="fav-team" id="countsville-Moose" />
                <label for="countsville-Moose">Moose</label><br />
              <input type="radio" name="fav-team" id="delstat-Ospreys" />
@@ -82,17 +79,21 @@
                <label for="eastBend-Turtles">Turtles</label><br />
              </div>
 
-             <div class="col-6">
+             
              <input type="radio" name="fav-team" id="arkham-Bats" />
                <label for="arkham-Bats">Bats</label><br />
              <input type="radio" name="fav-team" id="reefPt-Flyingfish" />
                <label for="reefPt-Flyingfish">Flyingfish</label><br />
-             <input type="radio" name="fav-team" id="anch-yetis" />Anchorage Yetis<br />
-             <input type="radio" name="fav-team" id="cacti" />Cacti<br />
-             <input type="radio" name="fav-team" id="zephyrs" />Zephyrs<br />
-             <input type="radio" name="fav-team" id="ptbr-sharks" />Port Bristol Sharks<br />
-             <input type="radio" name="fav-team" id="sb-crabs" />Sandy Beach Crabs<br />
-             </div>
+             <input type="radio" name="fav-team" id="anch-yetis" />
+                <label for="anch-yetis">Anchorage Yetis</label><br />
+             <input type="radio" name="fav-team" id="cacti" />
+                <label for="cacti">Cacti</label><br />
+             <input type="radio" name="fav-team" id="zephyrs" />
+                <label for="zephyrs">Zephyrs</label><br />
+             <input type="radio" name="fav-team" id="ptbr-sharks" />
+                <label for="ptbr-sharks">Port Bristol Sharks</label><br />
+             <input type="radio" name="fav-team" id="sb-crabs" />
+                <label for="sb-crabs">Sandy Beach Crabs</label><br />
              </div>
 
              <input class="btn btn-light"type="submit" value="Submit">
