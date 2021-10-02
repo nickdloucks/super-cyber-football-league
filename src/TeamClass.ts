@@ -4,7 +4,7 @@ import { TeamProfile, TeamStats } from './teamInterfaces';
 class Team {
     profile: TeamProfile;
     stats: TeamStats;
-    constructor(name: string, abrv: string, city: string, colors: string[]) {
+    constructor({name, abrv, city, colors, logo}: TeamProfile) {
 
         this.profile = {
             name: name,
