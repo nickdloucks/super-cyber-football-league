@@ -41,3 +41,5 @@ class TeamCreator extends React.Component{
         );
     }
 }
+
+export default TeamCreator;
