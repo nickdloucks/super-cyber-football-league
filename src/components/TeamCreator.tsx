@@ -16,7 +16,7 @@ class TeamCreator extends React.Component{
     }
 
 
-    handleSubmit(event){
+    handleSubmit(event: MouseEvent){
         event.preventDefault();
         this.setState({
             // save new team info
