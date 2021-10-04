@@ -2,7 +2,7 @@ import { TeamProfile } from "../teamInterfaces";
 import React from "react";
 
 class TeamCreator extends React.Component{
-    constructor(props){
+    constructor(props){ // implicit any type of parameters...
         super(props);
         this.state = {
             colors: [],
@@ -16,7 +16,7 @@ class TeamCreator extends React.Component{
     }
 
 
-    handleSubmit(event: MouseEvent){
+    handleSubmit(event){ // implicit any type of event...
         event.preventDefault();
         this.setState({
             // save new team info
@@ -26,16 +26,16 @@ class TeamCreator extends React.Component{
     render(){
         return(
             <>
-                <form onSubmit={this.handleSubmit}>
-                    <label>Name for new team: &nbsp;</label>
+                <form >
+                    <label htmlFor="newName">Name for new team: &nbsp;</label>
                     <input type="text" placeholder="team name" value="" id="newName"></input><br/>
-                    <label>City: &nbsp;</label>
+                    <label htmlFor="newCity">City: &nbsp;</label>
                     <input type="text" placeholder="city name" value="" id="newCity"></input><br/>
-                    <label>Abbreviation: &nbsp;</label>
+                    <label htmlFor="newAbrv">Abbreviation: &nbsp;</label>
                     <input type="text"placeholder="abbreviation" value="" id="newAbrv"></input><br/>
 
                     {/** add inputs for colors, logos */}
-                    <button type='submit'>Submit</button>
+                    <button type="submit" onClick={this.handleSubmit}>Submit</button>
                 </form>
             </>
         );
