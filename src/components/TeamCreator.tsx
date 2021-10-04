@@ -16,19 +16,17 @@ class TeamCreator extends React.Component{
     }
 
 
-    handleSubmit(){
-        
+    handleSubmit(event){
+        event.preventDefault();
+        this.setState({
+            // save new team info
+        });
     }
 
     render(){
-        const newName:string = document.getElementById("#newName").value();
-        const newCity:string = document.getElementById("#newCity").value();
-        const newAbrv:string = document.getElementById("#newAbrv").value();
-
-
         return(
             <>
-                <form>
+                <form onSubmit={this.handleSubmit}>
                     <label>Name for new team: &nbsp;</label>
                     <input type="text" placeholder="team name" value="" id="newName"></input><br/>
                     <label>City: &nbsp;</label>
@@ -37,7 +35,7 @@ class TeamCreator extends React.Component{
                     <input type="text"placeholder="abbreviation" value="" id="newAbrv"></input><br/>
 
                     {/** add inputs for colors, logos */}
-                    <button onClick={this.handleSubmit}>Submit</button>
+                    <button type='submit'>Submit</button>
                 </form>
             </>
         );
