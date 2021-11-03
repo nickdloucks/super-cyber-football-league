@@ -39,7 +39,7 @@ export interface TeamStats { // all team stats will be integers.
 }
 
 export interface TeamRecord {
-    wins: 0,
-    losses: 0,
-    ties: 0
+    wins: number,
+    losses: number,
+    ties: number
 }
