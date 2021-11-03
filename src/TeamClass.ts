@@ -1,4 +1,3 @@
-import { threadId } from 'worker_threads';
 import { TeamProfile, TeamStats, TeamRecord } from './teamInterfaces';
 
 
