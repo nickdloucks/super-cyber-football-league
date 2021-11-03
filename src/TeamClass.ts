@@ -1,16 +1,24 @@
-import { TeamProfile, TeamStats } from './teamInterfaces';
+import { threadId } from 'worker_threads';
+import { TeamProfile, TeamStats, TeamRecord } from './teamInterfaces';
 
 
 class Team {
     profile: TeamProfile;
     stats: TeamStats;
+    record: TeamRecord;
     constructor({name, abrv, city, colors, logo}: TeamProfile) {
 
         this.profile = {
             name: name,
             city: city,
             abrv: abrv.toUpperCase(),
-            colors: colors
+            colors: colors,
+            logo: logo
+        }
+        this.record = {
+            wins: 0,
+            losses: 0,
+            ties: 0
         }
         this.stats = { // implement stats interface, initialize values to zero; 
                         //will be updated as games are played

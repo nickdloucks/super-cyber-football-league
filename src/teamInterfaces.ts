@@ -37,3 +37,9 @@ export interface TeamStats { // all team stats will be integers.
     pointsAgainst: number,
   
 }
+
+export interface TeamRecord {
+    wins: 0,
+    losses: 0,
+    ties: 0
+}
