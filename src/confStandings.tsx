@@ -2,6 +2,11 @@ import React from'react';
 import {default as Team} from './TeamClass';
 
 const Standings = function(teamList: Team[], groupId: string){ // group ID will be a string to identify the conference, league, etc.
+    let style = {
+        padding: '15px',
+        
+    }
+    
     const rows = teamList.map(function(team: Team){
         let winPct = (team.record.wins/(team.record.wins + team.record.losses + team.record.ties)).toFixed(3);
         return(
