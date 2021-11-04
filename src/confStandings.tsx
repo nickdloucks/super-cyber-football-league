@@ -4,7 +4,9 @@ import {default as Team} from './TeamClass';
 const Standings = function(teamList: Team[], groupId: string){ // group ID will be a string to identify the conference, league, etc.
     let style = {
         padding: '15px',
-        
+        thead: {
+            backgroundColor: '#555555'
+        }
     }
     
     const rows = teamList.map(function(team: Team){
@@ -25,8 +27,8 @@ const Standings = function(teamList: Team[], groupId: string){ // group ID will 
     return(
         <>
             <span>{groupId} Standings</span>
-            <table>
-                <thead>
+            <table style = {style}>
+                <thead style = {style.thead}>
                     <tr>
                         <th>{/*logo*/}</th>
                         <th scope='col'>Team</th>
