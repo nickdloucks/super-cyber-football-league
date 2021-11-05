@@ -1,8 +1,10 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
+import TeamCreator from './components/TeamCreator';
 
-test('renders learn react link', () => {
+test('renders team creator form', () => {
   render(<App />);
-  const linkElement = screen.getByText(/Name for new team/i);
-  //expect(linkElement).toBeInTheDocument(); //not pulling from library
+  render(<TeamCreator />);
+  const formTitle = screen.getByText('Name for new team:');
+  expect(formTitle).toBeInTheDocument(); //not pulling from library
 });
