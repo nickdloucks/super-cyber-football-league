@@ -1,6 +1,6 @@
 import './App.css';
 import TeamCreator from './components/TeamCreator';
-import { default as Standings } from './confStandings'
+import { default as Standings } from './standingsTable'
 
 function App() {
   return (
