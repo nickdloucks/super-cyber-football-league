@@ -1,5 +1,5 @@
 import React from'react';
-import {default as Team} from './TeamClass';
+import {default as Team} from '../TeamClass';
 
 const Standings = function(teamList: Team[], groupId: string){ // group ID will be a string to identify the conference, league, etc.
     let style = {
