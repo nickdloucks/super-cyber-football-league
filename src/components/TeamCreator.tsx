@@ -2,7 +2,7 @@ import { TeamProfile } from "../teamInterfaces";
 import React from "react";
 
 class TeamCreator extends React.Component{
-    constructor(props){ // implicit any type of parameters...
+    constructor(props: {}){ // implicit any type of parameters...
         super(props);
         this.state = {
             colors: [],
@@ -16,7 +16,11 @@ class TeamCreator extends React.Component{
     }
 
 
-    handleSubmit(event){ // implicit any type of event...
+    handleSubmit(event: any){ // implicit any type of event...
+
+        //REVIEW BUTTON SPEC MORE TO IMPROVE THIS
+        // https://html.spec.whatwg.org/multipage/form-elements.html#attr-button-type
+        
         event.preventDefault();
         this.setState({
             // save new team info
