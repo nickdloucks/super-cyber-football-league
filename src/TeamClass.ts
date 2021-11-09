@@ -7,14 +7,14 @@ class Team {
     record: TeamRecord;
     constructor({name, abrv, city, colors, logo}: TeamProfile) {
 
-        this.profile = {
+        this.profile = { // read-only object to describe the instance of Team
             name: name,
             city: city,
             abrv: abrv.toUpperCase(),
             colors: colors,
             logo: logo
         }
-        this.record = {
+        this.record = { // record of the team's wins/losses used for standings
             wins: 0,
             losses: 0,
             ties: 0
