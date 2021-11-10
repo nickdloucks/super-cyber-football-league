@@ -1,7 +1,9 @@
 import { TeamProfile, TeamStats, TeamRecord } from './interfaces/teamInterfaces';
 
 
-class Team {
+class Team { // the Team will be the central data structure of the league and the app.
+    // each team will track its own data, while analytics and simulation tools will use each team's data 
+    // for game simulation and league analysis and tracking
     profile: TeamProfile;
     stats: TeamStats;
     record: TeamRecord;
