@@ -7,6 +7,7 @@ class Team { // the Team will be the central data structure of the league and th
     profile: TeamProfile;
     stats: TeamStats;
     record: TeamRecord;
+    schedule: TeamSchedule;
     constructor({name, abrv, city, colors, logo}: TeamProfile) {
 
         this.profile = { // read-only object to describe the instance of Team
