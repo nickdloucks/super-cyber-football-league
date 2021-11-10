@@ -1,4 +1,4 @@
-import { TeamProfile, TeamStats, TeamRecord } from './teamInterfaces';
+import { TeamProfile, TeamStats, TeamRecord } from './interfaces/teamInterfaces';
 
 
 class Team {

@@ -1,4 +1,4 @@
-import { TeamProfile } from "../teamInterfaces";
+import { TeamProfile } from "../interfaces/teamInterfaces";
 import React from "react";
 
 class TeamCreator extends React.Component{
