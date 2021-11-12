@@ -1,4 +1,5 @@
 import { TeamProfile, TeamStats, TeamRecord } from './interfaces/teamInterfaces';
+import {TeamSchedule} from './interfaces/scheduleInterface';
 
 
 class Team { // the Team will be the central data structure of the league and the app.
@@ -22,6 +23,13 @@ class Team { // the Team will be the central data structure of the league and th
             losses: 0,
             ties: 0
         }
+
+        this.schedule = {
+            scft: [],
+            regSeason: [],
+            postSeason: []
+        }
+
         this.stats = { // implement stats interface, initialize values to zero; 
                         //will be updated as games are played
             passYds: 0,
