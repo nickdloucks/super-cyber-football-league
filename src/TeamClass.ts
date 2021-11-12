@@ -1,10 +1,13 @@
 import { TeamProfile, TeamStats, TeamRecord } from './interfaces/teamInterfaces';
 import {TeamSchedule} from './interfaces/scheduleInterface';
 
+/**
+ * The Team will be the central data structure of the league and the app.
+ * Each team will track its own data, while analytics and simulation tools will use each team's data 
+ * for game simulation and league analysis and schedule tracking.
+ */
 
-class Team { // the Team will be the central data structure of the league and the app.
-    // each team will track its own data, while analytics and simulation tools will use each team's data 
-    // for game simulation and league analysis and tracking
+class Team {
     profile: TeamProfile;
     stats: TeamStats;
     record: TeamRecord;
@@ -30,8 +33,7 @@ class Team { // the Team will be the central data structure of the league and th
             postSeason: []
         }
 
-        this.stats = { // implement stats interface, initialize values to zero; 
-                        //will be updated as games are played
+        this.stats = { // implement stats interface, initialize values to zero; updated as games are played
             passYds: 0,
             rushYds: 0,
             passDef: 0,
