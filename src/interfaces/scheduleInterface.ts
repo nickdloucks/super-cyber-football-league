@@ -1,5 +1,5 @@
 export interface TeamSchedule {
-    scft: Array,
-    regSeason: Array,
-    postSeason: Array
+    scft: Array<object>,
+    regSeason: Array<object>,
+    postSeason: Array<object>
 }
