@@ -1,3 +1,9 @@
+
+/**
+ * Interface for a Game object. It will store data ablout a matchup between two different teams, 
+ * including score, season, stats, etc. It will store data used by the game simulator.
+ */
+
 export interface Game {
     readonly gameID: string, // unique identifier for the game, which could be the matchUpTitle...
     readonly matchUpTitle: string, // <matchUpTitle> will be a template literal in the form:
