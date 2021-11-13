@@ -1,4 +1,5 @@
 import {default as Team } from './TeamClass';
+import { TeamStats } from './interfaces/teamInterfaces';
 
 /**
  * This function will be one of the main tasks that the SCFL app performs.
@@ -9,5 +10,8 @@ import {default as Team } from './TeamClass';
  */
 
 const SIMULATE_GAME = function(homeTeam: Team, awayTeam: Team){
+    let game: object = {
+
+    };
 
 }
