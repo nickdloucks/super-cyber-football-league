@@ -6,13 +6,13 @@
  */
 
 
-export interface TeamProfile { // is this redundant if constructor params are type-specified?
+export interface TeamProfile {
     readonly name: string,
     readonly city: string,
     readonly abrv: string,
     readonly colors: string[],
     readonly logo?: string // string URL referencing an SVG logo (team logo SVGs have not been created yet)
-    readonly helmet: string // string URL referencing an SVG of the team's helmet design
+    readonly helmet?: string // string URL referencing an SVG of the team's helmet design
 }
 export interface TeamStats { // all team stats will be integers. 
     // Yards:
@@ -47,7 +47,7 @@ export interface TeamStats { // all team stats will be integers.
   
 }
 
-export interface TeamRecord {
+export interface TeamRecord { // counts game results for standings
     wins: number,
     losses: number,
     ties: number
