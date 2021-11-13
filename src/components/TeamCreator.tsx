@@ -1,6 +1,11 @@
 import { TeamProfile } from "../interfaces/teamInterfaces";
 import React from "react";
 
+/**
+ * Form component: Graphic Interface for user to initialize new teams.
+ * Using props, user can set the team's name, city, upload a logo picture, etc.
+ */
+
 class TeamCreator extends React.Component{
     constructor(props: {}){ // implicit any type of parameters...
         super(props);
