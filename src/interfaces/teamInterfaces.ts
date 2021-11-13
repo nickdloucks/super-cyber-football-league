@@ -1,3 +1,11 @@
+/**
+ * These interfaces define the different data fields that each team will store and keep track of.
+ * The profile property of a team will be it's main identifier data.
+ * Each team will also track its own statistics from games as the season progresses.
+ * The record property will keep track of the team's wins/losses/ties.
+ */
+
+
 export interface TeamProfile { // is this redundant if constructor params are type-specified?
     readonly name: string,
     readonly city: string,
