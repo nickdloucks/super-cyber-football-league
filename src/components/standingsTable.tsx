@@ -1,6 +1,15 @@
 import React from'react';
 import {default as Team} from '../TeamClass';
 
+/**
+ * 
+ * @param teamList 
+ * @param groupId 
+ * @returns Table with a list of teams sorted by winning percentage.
+ * Can be used to display a specific conference, or entire league.
+ * note* make it grab teams from whatever group is specified as a parameter
+ */
+
 const Standings = function(teamList: Team[], groupId: string){ // group ID will be a string to identify the conference, league, etc.
     let style = {
         padding: '15px',
