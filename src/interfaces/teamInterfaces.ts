@@ -12,6 +12,7 @@ export interface TeamProfile { // is this redundant if constructor params are ty
     readonly abrv: string,
     readonly colors: string[],
     readonly logo?: string // string URL referencing an SVG logo (team logo SVGs have not been created yet)
+    readonly helmet: string // string URL referencing an SVG of the team's helmet design
 }
 export interface TeamStats { // all team stats will be integers. 
     // Yards:
