@@ -10,6 +10,12 @@ import { TeamStats } from './interfaces/teamInterfaces';
  */
 
 const SIMULATE_GAME = function(homeTeam: Team, awayTeam: Team){
+
+    const drives:number = 12; // number of possessions each team gets
+    let home_score:number = 0;
+    let away_score:number = 0; // scores part of stats interface?
+    const first_down:number = 16;
+
     let game: object = {
 
     };
