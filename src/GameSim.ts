@@ -21,7 +21,8 @@ const SIMULATE_GAME = function(home_Team: Team, away_Team: Team){
     let away_stats:TeamStats;
 
     let game: Game ={
-        gameID: `${away_Team.profile.abrv}at${home_Team.profile.abrv}3004_01`,
+        gameID: `${away_Team.profile.abrv}at${home_Team.profile.abrv}3004_01`, 
+        // year and game # will need to be dynamically generated for gameID and matchUpTitle properties
         matchUpTitle: `${away_Team} @ ${home_Team} : Game 1, 3004`,
         homeTeam: home_Team.profile.abrv,
         awayTeam: away_Team.profile.abrv,
