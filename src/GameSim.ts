@@ -31,4 +31,9 @@ const SIMULATE_GAME = function(home_Team: Team, away_Team: Team){
         finalScore: ''
     };
 
+    // update stats for each team
+
+    //home_Team.updateStats(home_stats); use an update method defined on the team class or stats interface
+
+    return game;
 }
