@@ -12,6 +12,10 @@ class Team {
     stats: TeamStats;
     record: TeamRecord;
     schedule: TeamSchedule;
+    updateStats(newStats:TeamStats): void{
+        // update stats in this method
+    }
+
     constructor({name, abrv, city, colors, logo}: TeamProfile) {
 
         this.profile = { // read-only object to describe the instance of Team
@@ -64,8 +68,8 @@ class Team {
             pointsAgainst: 0,
         
         }
-
-
+        this.updateStats = this.updateStats.bind(this);
+        
 
         /*this.profile = { // this might be used as a sliding scale to determine how good each team is
             passO: undefined,
