@@ -21,6 +21,7 @@ const TeamTag: FC<NameProps> = ({ teamName }) => {
       <div id = {`${teamName}-tag`}>
         <div>{/*DISPLAY logo here, not just URL string*/}</div>
         <div>{teamName}</div>
+        <img src='../images/football-icon1.png'></img>{/*image test...*/}
       </div>
     </>
   );
