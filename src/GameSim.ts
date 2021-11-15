@@ -10,7 +10,7 @@ import {Game} from './interfaces/gameInterface';
  * 
  */
 
-const SIMULATE_GAME = function(homeTeam: Team, awayTeam: Team){
+const SIMULATE_GAME = function(home_Team: Team, away_Team: Team){
 
     const drives:number = 12; // number of possessions each team gets
     let home_score:number = 0;
@@ -20,6 +20,9 @@ const SIMULATE_GAME = function(homeTeam: Team, awayTeam: Team){
     let home_stats:TeamStats;
     let away_stats:TeamStats;
 
-    let game: Game;
+    let game: Game ={
+        homeTeam: home_Team.profile.abrv,
+        awayTeam: away_Team.profile.abrv
+    };
 
 }
