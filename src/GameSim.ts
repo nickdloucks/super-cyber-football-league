@@ -1,5 +1,6 @@
 import {default as Team } from './TeamClass';
 import { TeamStats } from './interfaces/teamInterfaces';
+import {Game} from './interfaces/gameInterface';
 
 /**
  * This function will be one of the main tasks that the SCFL app performs.
@@ -16,8 +17,9 @@ const SIMULATE_GAME = function(homeTeam: Team, awayTeam: Team){
     let away_score:number = 0; // scores part of stats interface?
     const first_down:number = 16;
 
-    let game: object = {
+    let home_stats:TeamStats;
+    let away_stats:TeamStats;
 
-    };
+    let game: Game;
 
 }
