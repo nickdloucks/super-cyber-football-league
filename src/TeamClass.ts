@@ -70,6 +70,10 @@ class Team {
         }
         this.updateStats = this.updateStats.bind(this);
         
+        function init_0s(property: object, init_val: any): void {
+            // dynamically initialize values of all props to a given value such as 0 or an empty string
+        }(this.stats, 0); // FIND A WAY TO CALL ON EACH INTERFACE
+
 
         /*this.profile = { // this might be used as a sliding scale to determine how good each team is
             passO: undefined,
