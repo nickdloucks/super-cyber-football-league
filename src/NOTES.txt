@@ -4,3 +4,6 @@ TO-DO
 - set up database, persistent storage
 - when database is set up, build user interface around it?
 - or build a UI for setting up the league, then build the main UI around the data/game flow?
+
+implement multiple interfaces of the Team class:
+class Team implements TeamProfile,TeamRecord,TeamStats {}
