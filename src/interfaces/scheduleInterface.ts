@@ -20,7 +20,7 @@ interface ScheduledGame {
 }
 
 export interface TeamSchedule {
-    scft: Array<object>,
-    regSeason: Array<object>,
-    postSeason: Array<object>
+    scft: Array<ScheduledGame>,
+    regSeason: Array<ScheduledGame>,
+    postSeason: Array<ScheduledGame>
 }
