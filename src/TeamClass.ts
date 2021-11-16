@@ -14,6 +14,9 @@ class Team {
     schedule: TeamSchedule;
     updateStats(newStats:TeamStats): void{
         // update stats in this method
+        // for each field in the newStats param,
+        // --add the new stat to the current value in the team's stats
+        // example: if newStats.rushTD == 2, then subjectTeam.stats.rushTD += 2;
     }
 
     constructor({name, abrv, city, colors, logo}: TeamProfile) {
@@ -70,7 +73,7 @@ class Team {
         }
         this.updateStats = this.updateStats.bind(this);
         
-        function init_0s(property: object, init_val: any): void {
+        function initVals(property: object, init_val: any): void {
             // dynamically initialize values of all props to a given value such as 0 or an empty string
         }(this.stats, 0); // FIND A WAY TO CALL ON EACH INTERFACE
 
