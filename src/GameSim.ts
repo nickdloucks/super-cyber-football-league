@@ -31,6 +31,18 @@ const SIMULATE_GAME = function(home_Team: Team, away_Team: Team){
         finalScore: ''
     };
 
+
+    /* Use each team's roster to simulate drives. Set up such that:
+    -Teams with better running backs get an advantage on run plays
+    -teams with better defensive backs get an advantage on pass defense
+    -more or less accurate kickers
+    -etc.
+
+    Each team gets 12 drives/posessions so the games do not need to be timed.
+
+    set default probabilities of outcomes like first downs, TDs, etc. and adjust based on team rosters
+    */
+
     // update stats for each team
 
     //home_Team.updateStats(home_stats); use an update method defined on the team class or stats interface
