@@ -39,8 +39,13 @@ const SIMULATE_GAME = function(home_Team: Team, away_Team: Team){
     -etc.
 
     Each team gets 12 drives/posessions so the games do not need to be timed.
+        - a takeaway drive does not count towards total, as that would penalize team that go the takeaway
 
-    set default probabilities of outcomes like first downs, TDs, etc. and adjust based on team rosters
+        each play, probability of first down is set by a default probability that is either 
+        increaed or degreased based on down and distance, then player actions (runs, passes, catches, tackles)
+        produce a value. if the value is within the successful range of probability, the first down is acheived
+
+    set default probabilities of outcomes like first downs, TDs, etc. and adjust based on team rosters.
     */
 
     // update stats for each team
