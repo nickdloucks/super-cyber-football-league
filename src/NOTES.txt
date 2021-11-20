@@ -7,3 +7,22 @@ TO-DO
 
 implement multiple interfaces of the Team class:
 class Team implements TeamProfile,TeamRecord,TeamStats {}
+
+
+
+important data for games:
+winner
+loser
+(tie)
+score
+yardage
+points broken down by drive, type of score
+turnovers
+drive count
+
+
+
+important data for analysis:
+total yardage
+total scoring
+takeaways
