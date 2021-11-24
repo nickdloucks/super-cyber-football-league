@@ -48,3 +48,4 @@ class TeamAdminGUI extends React.Component {
         );
     }
 }
+export default TeamAdminGUI;
