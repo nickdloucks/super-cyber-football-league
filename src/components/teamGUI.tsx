@@ -1,5 +1,6 @@
 import Team from "../TeamClass";
 import React from "react";
+import { ReactPropTypes } from "react";
 
 /**
  * This will be an admin panel for editing specific data 
@@ -10,7 +11,21 @@ import React from "react";
  */
 
 class TeamAdminGUI extends React.Component {
-    constructor(props: Array<Team>){ // pass an array of Teams; user will pick one to edit
+    subjTeam: Team;
+
+    constructor(props: Team){ // pass a Team as a prop; user will edit data for this team
         super(props);
+        this.subjTeam = this.props.children;
+    }
+    render(){
+        return(
+            <>
+                <h2>{this.subjTeam.profile.name}</h2>
+                <form>
+                    <label></label>
+                    <input></input>
+                </form>
+            </>
+        );
     }
 }
