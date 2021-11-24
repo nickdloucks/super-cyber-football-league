@@ -11,19 +11,38 @@ import { ReactPropTypes } from "react";
  */
 
 class TeamAdminGUI extends React.Component {
-    subjTeam: Team;
+
 
     constructor(props: Team){ // pass a Team as a prop; user will edit data for this team
         super(props);
-        this.subjTeam = this.props.children;
+
     }
     render(){
         return(
             <>
-                <h2>{this.subjTeam.profile.name}</h2>
+                <h2>{/*team name and logo here*/}</h2>
                 <form>
-                    <label></label>
-                    <input></input>
+                    <section>
+                        <h4>Profile:</h4>
+                        <label></label>
+                        <input></input>
+                        <button>Update</button>
+                        <button>Cancel</button>
+                    </section>
+                    <section>
+                        <h4>Record:</h4>
+                        <label></label>
+                        <input></input>
+                        <button>Update</button>
+                        <button>Cancel</button>
+                    </section>
+                    <section>
+                        <h4>Stats:</h4>
+                        <label></label>
+                        <input></input>
+                        <button>Update</button>
+                        <button>Cancel</button>
+                    </section>
                 </form>
             </>
         );
