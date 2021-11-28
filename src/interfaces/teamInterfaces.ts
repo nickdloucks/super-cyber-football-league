@@ -10,7 +10,8 @@ export interface TeamProfile {
     readonly name: string,
     readonly city: string,
     readonly abrv: string,
-    readonly colors: string[],
+    readonly colors: Array<string>,
+    readonly conference: string,
     readonly logo?: string // string URL referencing an SVG logo (team logo SVGs have not been created yet)
     readonly helmet?: string // string URL referencing an SVG of the team's helmet design
 }

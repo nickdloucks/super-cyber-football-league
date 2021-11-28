@@ -19,14 +19,15 @@ class Team {
         // example: if newStats.rushTD == 2, then subjectTeam.stats.rushTD += 2;
     }
 
-    constructor({name, abrv, city, colors, logo}: TeamProfile) {
+    constructor({name, abrv, city, colors, logo, conference}: TeamProfile) {
 
         this.profile = { // read-only object to describe the instance of Team
             name: name,
             city: city,
             abrv: abrv.toUpperCase(),
             colors: colors,
-            logo: logo
+            logo: logo,
+            conference: conference
         }
         this.record = { // record of the team's wins/losses used for standings
             wins: 0,
