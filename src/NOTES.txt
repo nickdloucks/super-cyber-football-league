@@ -20,7 +20,8 @@ points broken down by drive, type of score
 turnovers
 drive count
 
-
+create methods for common stats analysis operations:
+calc: SOS, SOV, winPct, conf winPct, 
 
 important data for analysis:
 total yardage
