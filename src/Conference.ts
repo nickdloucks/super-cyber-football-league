@@ -1,5 +1,12 @@
 import Team from "./TeamClass";
 
+
+/**
+ * The Conference class is used to define a group of Teams. 
+ * It is below the League level (meaning there are multiple conferences), but above the Division level
+ * (a conference can have multiple Divisions).
+ */
+
 class Conference {
     name: string;
     abrv: string;
