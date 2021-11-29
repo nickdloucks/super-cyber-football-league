@@ -52,5 +52,4 @@ export interface TeamRecord { // counts game results for standings
     wins: number,
     losses: number,
     ties: number
-    winPct: number
 }

@@ -18,6 +18,9 @@ class Team {
         // --add the new stat to the current value in the team's stats
         // example: if newStats.rushTD == 2, then subjectTeam.stats.rushTD += 2;
     }
+    getWinPct(): number{
+        return this.record.wins / (this.record.wins + this.record.losses + this.record.ties);
+    }
 
     constructor({name, abrv, city, colors, logo, conference}: TeamProfile) {
 
