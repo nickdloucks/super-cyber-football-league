@@ -27,3 +27,8 @@ important data for analysis:
 total yardage
 total scoring
 takeaways
+
+
+
+DB: collections are a grouping of similar data,
+    and databases are groupings of similar collections
