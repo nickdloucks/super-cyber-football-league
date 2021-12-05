@@ -16,7 +16,7 @@ class Conference {
     teams: Array<Team>;
     bowl: string;
     currentStandings(): Array<Team>{
-        return this.teams.sort(function (team_a:Team, team_b:Team){
+        return this.teams.sort(function (team_a:Team, team_b:Team): boolean{
             return team_b.getWinPct() > team_a.getWinPct();
         });
     };
