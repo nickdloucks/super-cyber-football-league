@@ -32,3 +32,5 @@ takeaways
 
 DB: collections are a grouping of similar data,
     and databases are groupings of similar collections
+
+*Why use React if a Typsecript component can return JSX?
