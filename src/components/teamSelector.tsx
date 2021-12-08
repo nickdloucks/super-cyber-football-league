@@ -26,6 +26,6 @@ function TeamSelector(selectedTeam: Team): JSX.Element{
         );
     }
     
-}
+//}
 
 
