@@ -7,9 +7,9 @@ import TeamAdminGUI from "./teamGUI";
  * manually changing Team data once the team is specified.
  */
 
-function TeamSelector(): JSX.Element{
+function TeamSelector(selectedTeam: Team): JSX.Element{
     // get list of Teams from database
-    let selectedTeam: Team;
+// DEFINE SELECTED TEAM HERE, NOT AS PARAMETER
     if(selectedTeam !== undefined){
         return(
             <>
