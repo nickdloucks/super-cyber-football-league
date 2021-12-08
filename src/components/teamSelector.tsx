@@ -10,13 +10,14 @@ import TeamAdminGUI from "./teamGUI";
 function TeamSelector(selectedTeam: Team): JSX.Element{
     // get list of Teams from database
 // DEFINE SELECTED TEAM HERE, NOT AS PARAMETER
-    if(selectedTeam !== undefined){
-        return(
-            <>
-                <TeamAdminGUI /> {/**PASS SELECTED TEAM AS A PROP */}
-            </>
-        );
-    }else{
+    //if(selectedTeam !== undefined){
+    //    return(
+    //        <>
+    //            <TeamAdminGUI /> {/**PASS SELECTED TEAM AS A PROP */}
+    //        </>
+   //     );
+   // }
+    //else{
         return(
             <>
                 <ul>{/**LIST OF ALL TEAMS HERE */}</ul>
