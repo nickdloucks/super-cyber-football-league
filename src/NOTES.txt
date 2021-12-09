@@ -34,3 +34,7 @@ DB: collections are a grouping of similar data,
     and databases are groupings of similar collections
 
 *Why use React if a Typsecript component can return JSX?
+
+if you need to create global types, you can just create an index.d.ts file in your src folder 
+(for example) and the types you add in this file will be available in your whole project, 
+you don't need to do any other thing.
