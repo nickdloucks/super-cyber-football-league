@@ -1,14 +1,14 @@
 TO-DO
 
 - decide on data schema: team focused
-- set up database, persistent storage
-- when database is set up, build user interface around it?
+- set up database, persistent storage: CREATED MONGO ATLAS CLUSTER, ADDED CONNECTION INFO TO .ENV
+- when database is set up, build user interface around it?: YES, USE SCHEMA VALIDATION ON DB, TO MAKE FRONTEND LIGHTER??
 - or build a UI for setting up the league, then build the main UI around the data/game flow?
 
 implement multiple interfaces of the Team class:
 class Team implements TeamProfile,TeamRecord,TeamStats {}
 
-GET LOCAL STORAGE DATA UP AND RUNNING SO THE LEAGUE CAN WORK WITH SOME DATA
+GET LOCAL STORAGE DATA UP AND RUNNING SO THE LEAGUE CAN WORK WITH SOME DATA:
 
 important data for games:
 winner
@@ -38,3 +38,4 @@ DB: collections are a grouping of similar data,
 if you need to create global types, you can just create an index.d.ts file in your src folder 
 (for example) and the types you add in this file will be available in your whole project, 
 you don't need to do any other thing.
+
