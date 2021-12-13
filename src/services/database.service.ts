@@ -6,7 +6,7 @@ import { env } from "process";
 const teamSchema = {
     $jsonSchema: {
         bsonType: "object",
-        required: ["name", "city",],
+        required: ["name", "city", "abrv", "colors"],
         additionalProperties: false,
         properties: {
             _id: {},
@@ -14,14 +14,18 @@ const teamSchema = {
                 bsonType: "string",
                 description: "'name' is required and is a string",
             },
-            price: {
-                bsonType: "number",
-                description: "'price' is required and is a number",
-            },
-            category: {
+            city: {
                 bsonType: "string",
-                description: "'category' is required and is a string",
+                description: "'city' is required and is a string",
             },
+            abrv: {
+                bsonType: "string",
+                description: "'abrv' is required and is a string",
+            },
+            colors: {
+                bsonType: "array",
+                description: "'colors' is required and is an array of strings"
+            }
         },
     }
 }
