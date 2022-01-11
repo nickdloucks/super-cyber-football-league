@@ -52,10 +52,11 @@
     ]
   },
   "devDependencies": {
-    "ts-jest": "^27.1.2",
-    "immer": "^8.0.1"
+    "immer": "^9.0.6",
+    "npm-force-resolutions": "0.0.10",
+    "ts-jest": "^27.1.2"
   },
   "resolutions": {
-    "immer": "^8.0.1"
+    "immer": "^9.0.6"
   }
 }
