@@ -39,3 +39,5 @@ if you need to create global types, you can just create an index.d.ts file in yo
 (for example) and the types you add in this file will be available in your whole project, 
 you don't need to do any other thing.
 
+make players that have different playing styles, personalities somehow
+maybe some elementary AI  so that players can react to in-game situations
