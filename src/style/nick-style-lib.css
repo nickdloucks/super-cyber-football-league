@@ -1,0 +1,195 @@
+:root {
+    --nick-purple: #8a2be2; /* blueviolet */
+    --nick-dk-purple: #4b0082; /* indigo */
+    --nick-navy: #00008b; /* darkblue */
+    --nick-blue: #0000ff; /* blue */
+    --nick-lt-blue: #00bfff; /* deepskyblue */
+    --nick-red: #ff0000; /* red */
+    --nick-maroon: #800000; /* maroon */
+    --nick-yellow: #ffff00; /* yellow */
+    --nick-lime: #00ff00; /* lime */
+    --nick-green: #008800; /* green */
+    --nick-olive: #556b2f; /* darkolivegreen */
+    --nick-orange: #ff6100; /* -custom- */
+    --nick-brown: #8b3613; /* -custom- */
+    --nick-dk-gray: #363636; /* -custom- */
+    --nick-dull-silver: #cccccc; /* -custom- */
+    --nick-gray: #818181; /* -custom- */
+    --nick-dull-gold: #ffb200; /* -custom- */
+    /* BRONZE?? COPPER? METALLIC GREEN? */
+}
+/* ROOT */
+html {
+    font-size: 24px; /* default font size for root of document */
+    color:#000000;
+}
+
+/* TEXT ELEMENTS */
+h1, h2, h3, h4, h5, h6 {
+    font-family: Lucida Bright, Georgia, serif;
+    box-sizing: border-box;
+    margin: 1em;
+}
+
+p, pre, section, div, li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    padding: 0.8em;
+    box-sizing: border-box;
+    margin: 0.8em;
+}
+
+label {
+    font-family: Lucida Bright, Georgia, serif;
+    font-size: 0.8em;
+    padding: 0.8em;
+    box-sizing: border-box;
+    margin: 0.8em;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.6em;
+    padding: 0.6em;
+    margin: 0.6em;
+}
+
+/* BOX/MODULE ELEMENTS */
+article, section {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.8rem;
+    padding: 0.8rem;
+    box-sizing: border-box;
+    margin: 0.8rem;
+    /* resize: both;
+    overflow: auto; */
+}
+
+.side-nav {
+    list-style-type: none;
+
+}
+
+a:hover{
+    color: var(--nick-red, red);
+}
+a:active{
+    color: var(--nick-lime, lime);
+}
+a:visited{
+    color: var(--nick-orange, orange);
+}
+
+.good-button{
+    color: #000000;
+    background-color: var(--nick-green, green);
+    padding: 0.5rem;
+    margin: 10px;
+    transition: padding border 0.5s ease-in-out 0.25s;
+    border-radius: 0.25rem;
+    background-image: linear-gradient(45deg, var(--nick-lime), var(--nick-green));
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+}
+.good-button:hover{
+    border-style: solid #000000 2px;
+    color: #ffffff;
+    font-style: italic;
+}
+.good-button:active{
+    color: var(--nick-red, red);
+    text-decoration: underline;
+}
+.bad-button{
+    color: #000000;
+    background-color: var(--nick-red, red);
+    padding: 0.5rem;
+    margin: 10px;
+    transition: padding border 0.5s ease-in-out 0.25s;
+    border-radius: 0.25rem;
+    background-image: linear-gradient(45deg, #ff0000, #800000);
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+}
+.bad-button:hover{
+    border-style: solid #000000 2px;
+    color: #ffffff;
+    font-style: italic;
+}
+.bad-button:active{
+    color: var(--nick-dk-gray, gray);
+    text-decoration: underline;
+}
+.neutral-button{
+    color: #000000;
+    background-color: var(--nick-blue, blue);
+    padding: 0.5rem;
+    margin: 10px;
+    transition: padding border 0.5s ease-in-out 0.25s;
+    border-radius: 0.25rem;
+    background-image: linear-gradient(45deg, #000bff, #00008b);
+    border-style: solid;
+    border-color: #000000;
+    border-width: 2px;
+}
+.neutral-button:hover{
+    border-style: solid #000000 2px;
+    color: #ffffff;
+    font-style: italic;
+}
+.neutral-button:active{
+    color: var(--nick-red, red);
+    text-decoration: underline;
+}
+
+.flex-container {
+    display: flex;
+}
+
+li{
+	display: inline;
+    list-style-type: none;
+}
+
+.grid-container {
+    font-size: 1rem;
+    height: max-content;
+    width: 1fr;
+    display: grid;
+    border-radius: 0.25rem;
+    background-color: #000000;
+    list-style-type: none;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(60px, 1fr));
+    /* grid-auto-rows: minmax(30px, auto); */
+    grid-gap: 24px;
+    padding: 2rem;
+    justify-items: center;
+    align-items: center;
+}
+
+.grid-item{
+    width: max-content;
+    margin: 1em, 3em;
+    
+}
+
+label{
+    display: inline;
+}
+
+tr:nth-child(even){
+    background-color: var(--nick-dull-gold);
+}
+tr:hover{
+    background-color: var(--nick-yellow);
+}
+th{
+    padding: 10px;
+    text-align: left;
+    background-color: var(--nick-maroon);
+    color: #ffffff;
+}
+
