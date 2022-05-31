@@ -199,8 +199,13 @@ th{
     font-size: 48px;
     font-weight: bold;
     background-image: linear-gradient(100deg, var(--nick-dk-gray), var(--nick-dull-silver), var(--nick-gray));
-
+    border-radius: 1rem;
 }
 .copper-color-tester{
     background-image: linear-gradient(80deg, var(--nick-brown), var(--nick-yellow), var(--nick-orange));
 }
+.metallic-green{
+    background-image: linear-gradient(100deg, var(--nick-green), var(--nick-olive), var(--nick-green));
+}
+
+/* var(--nick-lime) */
