@@ -42,7 +42,7 @@ const SIMULATE_GAME = function(home_Team: Team, away_Team: Team){
         - a takeaway drive does not count towards total, as that would penalize team that go the takeaway
 
         each play, probability of first down is set by a default probability that is either 
-        increaed or degreased based on down and distance, then player actions (runs, passes, catches, tackles)
+        increaed or decreased based on down and distance, then player actions (runs, passes, catches, tackles)
         produce a value. if the value is within the successful range of probability, the first down is acheived
 
     set default probabilities of outcomes like first downs, TDs, etc. and adjust based on team rosters.

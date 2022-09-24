@@ -79,6 +79,7 @@ class Team {
         
         function initVals(property: object, init_val: any): void {
             // dynamically initialize values of all props to a given value such as 0 or an empty string
+            //NO, NOT NEEDED, JUST USE A DATABASE (note on 9-24/22)
         }(this.stats, 0); // FIND A WAY TO CALL ON EACH INTERFACE
         // or, call this function on separate interfaces/objects on the Team class
         // ex: this.initVals(this.stats, 0); this.initVals(this.record, 0)

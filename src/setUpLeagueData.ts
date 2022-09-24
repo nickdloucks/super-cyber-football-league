@@ -10,3 +10,6 @@ let BATS = new Team({
     colors:['#800080', '#000000', '#c0c0c0'], 
     logo:'<bats-logo>', 
     conference:'NC'});
+
+
+// A team factory function is not needed if a database is setup first. just query DB to get the team data

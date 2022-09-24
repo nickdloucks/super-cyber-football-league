@@ -15,4 +15,6 @@ function genSchedule(subject_team: Team, conf_games: number,  spec_nonConf: Arra
         // if a team is free on that week, add them to this team's schedule
     // teams should play all the other teams in their conference
     // add the rivalry game where there's an opening? or do the rivals get scheduled first?
+
+    // look up matrix processing algorithms for this program
 }
