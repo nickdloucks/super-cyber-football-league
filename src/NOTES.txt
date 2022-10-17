@@ -41,3 +41,9 @@ you don't need to do any other thing.
 
 make players that have different playing styles, personalities somehow
 maybe some elementary AI  so that players can react to in-game situations
+
+
+Architecture design process:
+build front end first to solidify UX and outline what data is needed where
+then make the schemas/ do the data modeling and build the persistence layer
+then write API/ middle layers/ server to connect all the data to the UI
