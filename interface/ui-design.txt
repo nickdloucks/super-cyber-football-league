@@ -1,0 +1,8 @@
+offline page
+standings page/ playoff picture page
+    store minimal standings data for each team in local storage as arrays for easy sorting
+    have an update button to query DB/persistence layer, and-or call the same function each time the app goes back online
+playoffs (braket design: copy for SFCT)
+
+homepage for each team:
+    
