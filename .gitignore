@@ -11,6 +11,7 @@
 
 # production
 /build
+database/scfl-data/db-access
 
 # misc
 .DS_Store
