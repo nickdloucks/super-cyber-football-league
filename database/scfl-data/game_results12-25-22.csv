@@ -1,0 +1,183 @@
+neutral_site,overtime,year,game,away_team,home_team,away_score,home_score,away_result,home_result,away_rank,home_rank,winner,looser,game_id,matchup_str
+TRUE,FALSE,3001,Game 1,Bats,Zephyrs,8,16,L,W,,,Zephyrs,Bats,Bats vs. Zephyrs 3001 Game 1: 8-16, vs. 
+TRUE,FALSE,3001,Game 1,Flyingfish,Sharks,10,12,L,W,,,Sharks,Flyingfish,Flyingfish vs. Sharks 3001 Game 1: 10-12, vs. 
+TRUE,FALSE,3001,Game 1,Yetis,Mooses,6,10,L,W,,,Mooses,Yetis,Yetis vs. Mooses 3001 Game 1: 6-10, vs. 
+TRUE,FALSE,3001,Game 1,Skeleton Crew,Rocks,0,22,L,W,,,Rocks,Skeleton Crew,Skeleton Crew vs. Rocks 3001 Game 1: 0-22, vs. 
+TRUE,FALSE,3001,Game 1,Squids,Turtles,0,7,L,W,,,Turtles,Squids,Squids vs. Turtles 3001 Game 1: 0-7, vs. 
+TRUE,FALSE,3001,Game 1,Ospreys,Aliens,6,16,L,W,,,Aliens,Ospreys,Ospreys vs. Aliens 3001 Game 1: 6-16, vs. 
+TRUE,FALSE,3001,Game 2,Bats,Rocks,7,22,L,W,,1,Rocks,Bats,Bats vs. Rocks 3001 Game 2: 7-22, vs. 
+TRUE,FALSE,3001,Game 2,Zephyrs,Sharks,7,27,L,W,,,Sharks,Zephyrs,Zephyrs vs. Sharks 3001 Game 2: 7-27, vs. 
+TRUE,FALSE,3001,Game 2,Turtles,Yetis,7,15,L,W,,,Yetis,Turtles,Turtles vs. Yetis 3001 Game 2: 7-15, vs. 
+TRUE,FALSE,3001,Game 2,Skeleton Crew,Flyingfish,3,7,L,W,,,Flyingfish,Skeleton Crew,Skeleton Crew vs. Flyingfish 3001 Game 2: 3-7, vs. 
+TRUE,FALSE,3001,Game 2,Squids,Ospreys,7,14,L,W,,,Ospreys,Squids,Squids vs. Ospreys 3001 Game 2: 7-14, vs. 
+TRUE,FALSE,3001,Game 2,Aliens,Mooses,10,28,L,W,2,,Mooses,Aliens,Aliens vs. Mooses 3001 Game 2: 10-28, vs. 
+TRUE,FALSE,3001,Game 3,Bats,Ospreys,14,15,L,W,,,Ospreys,Bats,Bats vs. Ospreys 3001 Game 3: 14-15, vs. 
+TRUE,FALSE,3001,Game 3,Sharks,Mooses,8,14,L,W,,3,Mooses,Sharks,Sharks vs. Mooses 3001 Game 3: 8-14, vs. 
+TRUE,TRUE,3001,Game 3,Rocks,Zephyrs,21,23,L,W,1,,Zephyrs,Rocks,Rocks vs. Zephyrs 3001 Game 3: 21-23 (OT), vs. 
+TRUE,FALSE,3001,Game 3,Aliens,Yetis,6,10,L,W,,,Yetis,Aliens,Aliens vs. Yetis 3001 Game 3: 6-10, vs. 
+TRUE,FALSE,3001,Game 3,Squids,Flyingfish,9,13,L,W,,,Flyingfish,Squids,Squids vs. Flyingfish 3001 Game 3: 9-13, vs. 
+TRUE,FALSE,3001,Game 3,Skeleton Crew,Turtles,6,30,L,W,,,Turtles,Skeleton Crew,Skeleton Crew vs. Turtles 3001 Game 3: 6-30, vs. 
+TRUE,FALSE,3001,Game 4,Aliens,Bats,7,9,L,W,,,Bats,Aliens,Aliens vs. Bats 3001 Game 4: 7-9, vs. 
+TRUE,FALSE,3001,Game 4,Squids,Sharks,0,23,L,W,,4,Sharks,Squids,Squids vs. Sharks 3001 Game 4: 0-23, vs. 
+TRUE,FALSE,3001,Game 4,Zephyrs,Yetis,0,11,L,W,,,Yetis,Zephyrs,Zephyrs vs. Yetis 3001 Game 4: 0-11, vs. 
+TRUE,FALSE,3001,Game 4,Flyingfish,Mooses,6,23,L,W,,1,Mooses,Flyingfish,Flyingfish vs. Mooses 3001 Game 4: 6-23, vs. 
+TRUE,FALSE,3001,Game 4,Ospreys,Skeleton Crew,8,9,L,W,,,Skeleton Crew,Ospreys,Ospreys vs. Skeleton Crew 3001 Game 4: 8-9, vs. 
+TRUE,FALSE,3001,Game 4,Rocks,Turtles,6,22,L,W,2,3,Turtles,Rocks,Rocks vs. Turtles 3001 Game 4: 6-22, vs. 
+TRUE,FALSE,3001,Game 5,Bats,Sharks,0,12,L,W,,2,Sharks,Bats,Bats vs. Sharks 3001 Game 5: 0-12, vs. 
+TRUE,FALSE,3001,Game 5,Zephyrs,Aliens,0,14,L,W,,,Aliens,Zephyrs,Zephyrs vs. Aliens 3001 Game 5: 0-14, vs. 
+TRUE,FALSE,3001,Game 5,Skeleton Crew,Yetis,0,40,L,W,,4,Yetis,Skeleton Crew,Skeleton Crew vs. Yetis 3001 Game 5: 0-40, vs. 
+TRUE,FALSE,3001,Game 5,Flyingfish,Turtles,7,13,L,W,,3,Turtles,Flyingfish,Flyingfish vs. Turtles 3001 Game 5: 7-13, vs. 
+TRUE,FALSE,3001,Game 5,Squids,Rocks,0,21,L,W,,,Rocks,Squids,Squids vs. Rocks 3001 Game 5: 0-21, vs. 
+TRUE,FALSE,3001,Game 5,Ospreys,Mooses,7,13,L,W,,1,Mooses,Ospreys,Ospreys vs. Mooses 3001 Game 5: 7-13, vs. 
+TRUE,FALSE,3001,Game 6,Squids,Bats,7,12,L,W,,,Bats,Squids,Squids vs. Bats 3001 Game 6: 7-12, vs. 
+TRUE,FALSE,3001,Game 6,Yetis,Sharks,0,10,L,W,3,2,Sharks,Yetis,Yetis vs. Sharks 3001 Game 6: 0-10, vs. 
+TRUE,FALSE,3001,Game 6,Rocks,Flyingfish,7,8,L,W,,,Flyingfish,Rocks,Rocks vs. Flyingfish 3001 Game 6: 7-8, vs. 
+TRUE,FALSE,3001,Game 6,Skeleton Crew,Aliens,14,16,L,W,,,Aliens,Skeleton Crew,Skeleton Crew vs. Aliens 3001 Game 6: 14-16, vs. 
+TRUE,FALSE,3001,Game 6,Ospreys,Turtles,0,14,L,W,,,Turtles,Ospreys,Ospreys vs. Turtles 3001 Game 6: 0-14, vs. 
+TRUE,FALSE,3001,Game 6,Zephyrs,Mooses,0,10,L,W,,,Mooses,Zephyrs,Zephyrs vs. Mooses 3001 Game 6: 0-10, vs. 
+TRUE,FALSE,3001,Game 7,Bats,Mooses,3,7,L,W,,1,Mooses,Bats,Bats vs. Mooses 3001 Game 7: 3-7, vs. 
+TRUE,FALSE,3001,Game 7,Ospreys,Sharks,0,6,L,W,,2,Sharks,Ospreys,Ospreys vs. Sharks 3001 Game 7: 0-6, vs. 
+TRUE,FALSE,3001,Game 7,Flyingfish,Yetis,8,16,L,W,,4,Yetis,Flyingfish,Flyingfish vs. Yetis 3001 Game 7: 8-16, vs. 
+TRUE,FALSE,3001,Game 7,Squids,Skeleton Crew,3,21,L,W,,,Skeleton Crew,Squids,Squids vs. Skeleton Crew 3001 Game 7: 3-21, vs. 
+TRUE,FALSE,3001,Game 7,Rocks,Aliens,0,8,L,W,,,Aliens,Rocks,Rocks vs. Aliens 3001 Game 7: 0-8, vs. 
+TRUE,FALSE,3001,Game 7,Zephyrs,Turtles,0,14,L,W,,,Turtles,Zephyrs,Zephyrs vs. Turtles 3001 Game 7: 0-14, vs. 
+TRUE,FALSE,3001,Ax Bowl,Turtles,Mooses,7,18,L,W,2,1,Mooses,Turtles,Turtles vs. Mooses 3001 Ax Bowl: 7-18, vs. 
+TRUE,FALSE,3001,Anchor Bowl,Sharks,Yetis,10,29,L,W,3,4,Yetis,Sharks,Sharks vs. Yetis 3001 Anchor Bowl: 10-29, vs. 
+TRUE,FALSE,3001,Sock Bowl,Yetis,Mooses,6,9,L,W,4,1,Mooses,Yetis,Yetis vs. Mooses 3001 Sock Bowl: 6-9, vs. 
+TRUE,FALSE,3001,Pine Bowl,(No eligible challenger),Aliens,0,0,T,T,,,TIE,TIE,(No eligible challenger) vs. Aliens 3001 Pine Bowl: 0-0, vs. 
+TRUE,FALSE,3002,DT Round 1,Sailors,Bats,7,27,L,W,,,Bats,Sailors,Sailors vs. Bats 3002 DT Round 1: 7-27, vs. 
+TRUE,FALSE,3002,DT Round 1,Cactuses,Zephyrs,0,21,L,W,,,Zephyrs,Cactuses,Cactuses vs. Zephyrs 3002 DT Round 1: 0-21, vs. 
+TRUE,FALSE,3002,DT Round 1,Skeleton Crew,Crabs,14,21,L,W,,,Crabs,Skeleton Crew,Skeleton Crew vs. Crabs 3002 DT Round 1: 14-21, vs. 
+TRUE,FALSE,3002,DT Round 1,Squids,Cows,6,14,L,W,,,Cows,Squids,Squids vs. Cows 3002 DT Round 1: 6-14, vs. 
+TRUE,FALSE,3002,DT Round 2,Zephyrs,Bats,3,14,L,W,,,Bats,Zephyrs,Zephyrs vs. Bats 3002 DT Round 2: 3-14, vs. 
+TRUE,FALSE,3002,DT Round 2,Crabs,Cows,14,17,L,W,,,Cows,Crabs,Crabs vs. Cows 3002 DT Round 2: 14-17, vs. 
+TRUE,FALSE,3002,DT Round 3,Bats,Cows,13,14,L,W,,,Cows,Bats,Bats vs. Cows 3002 DT Round 3: 13-14, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Bats,Flyingfish,14,10,W,L,10,7,Bats,Flyingfish,Bats vs. Flyingfish 3002 SCFT Round 1: 14-10, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Squids,Sharks,3,21,L,W,14,3,Sharks,Squids,Squids vs. Sharks 3002 SCFT Round 1: 3-21, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Crabs,Aliens,0,7,L,W,12,5,Aliens,Crabs,Crabs vs. Aliens 3002 SCFT Round 1: 0-7, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Zephyrs,Rocks,17,7,W,L,11,6,Zephyrs,Rocks,Zephyrs vs. Rocks 3002 SCFT Round 1: 17-7, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Skeleton Crew,Yetis,6,11,L,W,13,4,Yetis,Skeleton Crew,Skeleton Crew vs. Yetis 3002 SCFT Round 1: 6-11, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Cactuses,Mooses,3,7,L,W,16,1,Mooses,Cactuses,Cactuses vs. Mooses 3002 SCFT Round 1: 3-7, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Sailors,Turtles,0,21,L,W,15,2,Turtles,Sailors,Sailors vs. Turtles 3002 SCFT Round 1: 0-21, vs. 
+TRUE,FALSE,3002,SCFT Round 1,Cows,Ospreys,7,21,L,W,9,8,Ospreys,Cows,Cows vs. Ospreys 3002 SCFT Round 1: 7-21, vs. 
+TRUE,FALSE,3002,SCFT Round 2,Bats,Turtles,21,3,W,L,10,2,Bats,Turtles,Bats vs. Turtles 3002 SCFT Round 2: 21-3, vs. 
+TRUE,FALSE,3002,SCFT Round 2,Zephyrs,Sharks,0,14,L,W,11,3,Sharks,Zephyrs,Zephyrs vs. Sharks 3002 SCFT Round 2: 0-14, vs. 
+TRUE,FALSE,3002,SCFT Round 2,Aliens,Yetis,10,21,L,W,5,4,Yetis,Aliens,Aliens vs. Yetis 3002 SCFT Round 2: 10-21, vs. 
+TRUE,FALSE,3002,SCFT Round 2,Ospreys,Mooses,14,17,L,W,8,1,Mooses,Ospreys,Ospreys vs. Mooses 3002 SCFT Round 2: 14-17, vs. 
+TRUE,FALSE,3002,SCFT Semi-Final,Yetis,Mooses,6,14,L,W,4,1,Mooses,Yetis,Yetis vs. Mooses 3002 SCFT Semi-Final: 6-14, vs. 
+TRUE,FALSE,3002,SCFT Semi-Final,Bats,Sharks,21,10,W,L,10,3,Bats,Sharks,Bats vs. Sharks 3002 SCFT Semi-Final: 21-10, vs. 
+TRUE,FALSE,3002,SCFT Championship,Bats,Mooses,17,3,W,L,10,1,Bats,Mooses,Bats vs. Mooses 3002 SCFT Championship: 17-3, vs. 
+TRUE,FALSE,3002,Game 1,Flyingfish,Bats,0,27,L,W,,1,Bats,Flyingfish,Flyingfish vs. Bats 3002 Game 1: 0-27, vs. 
+TRUE,FALSE,3002,Game 1,Yetis,Sharks,14,7,W,L,4,3,Yetis,Sharks,Yetis vs. Sharks 3002 Game 1: 14-7, vs. 
+TRUE,FALSE,3002,Game 1,Crabs,Zephyrs,6,13,L,W,,,Zephyrs,Crabs,Crabs vs. Zephyrs 3002 Game 1: 6-13, vs. 
+TRUE,FALSE,3002,Game 1,Rocks,Ospreys,7,16,L,W,,,Ospreys,Rocks,Rocks vs. Ospreys 3002 Game 1: 7-16, vs. 
+TRUE,FALSE,3002,Game 1,Turtles,Mooses,0,14,L,W,,2,Mooses,Turtles,Turtles vs. Mooses 3002 Game 1: 0-14, vs. 
+TRUE,FALSE,3002,Game 1,Aliens,Cows,3,7,L,W,,,Cows,Aliens,Aliens vs. Cows 3002 Game 1: 3-7, vs. 
+TRUE,FALSE,3002,Game 2,Crabs,Bats,0,28,L,W,,1,Bats,Crabs,Crabs vs. Bats 3002 Game 2: 0-28, vs. 
+TRUE,FALSE,3002,Game 2,Sharks,Flyingfish,7,13,L,W,,,Flyingfish,Sharks,Sharks vs. Flyingfish 3002 Game 2: 7-13, vs. 
+TRUE,FALSE,3002,Game 2,Zephyrs,Yetis,3,10,L,W,,4,Yetis,Zephyrs,Zephyrs vs. Yetis 3002 Game 2: 3-10, vs. 
+TRUE,FALSE,3002,Game 2,Rocks,Mooses,6,14,L,W,,2,Mooses,Rocks,Rocks vs. Mooses 3002 Game 2: 6-14, vs. 
+TRUE,FALSE,3002,Game 2,Turtles,Aliens,6,7,L,W,,,Aliens,Turtles,Turtles vs. Aliens 3002 Game 2: 6-7, vs. 
+TRUE,FALSE,3002,Game 2,Cows,Ospreys,7,8,L,W,,3,Ospreys,Cows,Cows vs. Ospreys 3002 Game 2: 7-8, vs. 
+TRUE,FALSE,3002,Game 3,Ospreys,Bats,17,7,W,L,4,1,Ospreys,Bats,Ospreys vs. Bats 3002 Game 3: 17-7, vs. 
+TRUE,FALSE,3002,Game 3,Turtles,Sharks,7,28,L,W,,,Sharks,Turtles,Turtles vs. Sharks 3002 Game 3: 7-28, vs. 
+TRUE,FALSE,3002,Game 3,Zephyrs,Cows,0,14,L,W,,,Cows,Zephyrs,Zephyrs vs. Cows 3002 Game 3: 0-14, vs. 
+TRUE,FALSE,3002,Game 3,Rocks,Yetis,15,8,W,L,,3,Rocks,Yetis,Rocks vs. Yetis 3002 Game 3: 15-8, vs. 
+TRUE,FALSE,3002,Game 3,Crabs,Aliens,14,21,L,W,,,Aliens,Crabs,Crabs vs. Aliens 3002 Game 3: 14-21, vs. 
+TRUE,FALSE,3002,Game 3,Flyingfish,Mooses,0,28,L,W,,2,Mooses,Flyingfish,Flyingfish vs. Mooses 3002 Game 3: 0-28, vs. 
+TRUE,FALSE,3002,Game 4,Bats,Mooses,21,0,W,L,3,1,Bats,Mooses,Bats vs. Mooses 3002 Game 4: 21-0, vs. 
+TRUE,FALSE,3002,Game 4,Zephyrs,Sharks,13,14,L,W,,,Sharks,Zephyrs,Zephyrs vs. Sharks 3002 Game 4: 13-14, vs. 
+TRUE,FALSE,3002,Game 4,Crabs,Yetis,14,6,W,L,,,Crabs,Yetis,Crabs vs. Yetis 3002 Game 4: 14-6, vs. 
+TRUE,FALSE,3002,Game 4,Turtles,Flyingfish,7,21,L,W,,,Flyingfish,Turtles,Turtles vs. Flyingfish 3002 Game 4: 7-21, vs. 
+TRUE,FALSE,3002,Game 4,Rocks,Cows,3,21,L,W,,4,Cows,Rocks,Rocks vs. Cows 3002 Game 4: 3-21, vs. 
+TRUE,FALSE,3002,Game 4,Aliens,Ospreys,7,24,L,W,,2,Ospreys,Aliens,Aliens vs. Ospreys 3002 Game 4: 7-24, vs. 
+TRUE,FALSE,3002,Game 5,Zephyrs,Bats,3,7,L,W,,2,Bats,Zephyrs,Zephyrs vs. Bats 3002 Game 5: 3-7, vs. 
+TRUE,FALSE,3002,Game 5,Sharks,Rocks,10,13,L,W,,,Rocks,Sharks,Sharks vs. Rocks 3002 Game 5: 10-13, vs. 
+TRUE,FALSE,3002,Game 5,Yetis,Ospreys,21,7,W,L,,1,Yetis,Ospreys,Yetis vs. Ospreys 3002 Game 5: 21-7, vs. 
+TRUE,FALSE,3002,Game 5,Crabs,Flyingfish,14,3,W,L,,,Crabs,Flyingfish,Crabs vs. Flyingfish 3002 Game 5: 14-3, vs. 
+TRUE,FALSE,3002,Game 5,Turtles,Cows,6,14,L,W,,3,Cows,Turtles,Turtles vs. Cows 3002 Game 5: 6-14, vs. 
+TRUE,FALSE,3002,Game 5,Aliens,Mooses,6,17,L,W,,4,Mooses,Aliens,Aliens vs. Mooses 3002 Game 5: 6-17, vs. 
+TRUE,FALSE,3002,Game 6,Yetis,Bats,9,21,L,W,,1,Bats,Yetis,Yetis vs. Bats 3002 Game 6: 9-21, vs. 
+TRUE,FALSE,3002,Game 6,Sharks,Crabs,10,17,L,W,,,Crabs,Sharks,Sharks vs. Crabs 3002 Game 6: 10-17, vs. 
+TRUE,FALSE,3002,Game 6,Zephyrs,Flyingfish,6,14,L,W,,,Flyingfish,Zephyrs,Zephyrs vs. Flyingfish 3002 Game 6: 6-14, vs. 
+TRUE,FALSE,3002,Game 6,Rocks,Aliens,3,24,L,W,,,Aliens,Rocks,Rocks vs. Aliens 3002 Game 6: 3-24, vs. 
+TRUE,FALSE,3002,Game 6,Turtles,Ospreys,22,14,W,L,,4,Turtles,Ospreys,Turtles vs. Ospreys 3002 Game 6: 22-14, vs. 
+TRUE,FALSE,3002,Game 6,Mooses,Cows,14,18,L,W,3,2,Cows,Mooses,Mooses vs. Cows 3002 Game 6: 14-18, vs. 
+TRUE,FALSE,3002,Game 7,Sharks,Bats,3,28,L,W,,1,Bats,Sharks,Sharks vs. Bats 3002 Game 7: 3-28, vs. 
+TRUE,FALSE,3002,Game 7,Zephyrs,Aliens,7,14,L,W,,,Aliens,Zephyrs,Zephyrs vs. Aliens 3002 Game 7: 7-14, vs. 
+TRUE,FALSE,3002,Game 7,Flyingfish,Yetis,7,18,L,W,,,Yetis,Flyingfish,Flyingfish vs. Yetis 3002 Game 7: 7-18, vs. 
+TRUE,FALSE,3002,Game 7,Crabs,Cows,7,17,L,W,,2,Cows,Crabs,Crabs vs. Cows 3002 Game 7: 7-17, vs. 
+TRUE,FALSE,3002,Game 7,Turtles,Rocks,11,17,L,W,,,Rocks,Turtles,Turtles vs. Rocks 3002 Game 7: 11-17, vs. 
+TRUE,FALSE,3002,Game 7,Ospreys,Mooses,10,20,L,W,,3,Mooses,Ospreys,Ospreys vs. Mooses 3002 Game 7: 10-20, vs. 
+TRUE,FALSE,3002,Ax Bowl,Mooses,Cows,17,14,W,L,3,2,Mooses,Cows,Mooses vs. Cows 3002 Ax Bowl: 17-14, vs. 
+TRUE,TRUE,3002,Anchor Bowl,Yetis,Bats,28,21,W,L,4,1,Yetis,Bats,Yetis vs. Bats 3002 Anchor Bowl: 28-21 (OT), vs. 
+TRUE,FALSE,3002,Sock Bowl,Yetis,Mooses,31,14,W,L,4,3,Yetis,Mooses,Yetis vs. Mooses 3002 Sock Bowl: 31-14, vs. 
+TRUE,FALSE,3002,Pine Bowl,Aliens,Ospreys,14,31,L,W,,,Ospreys,Aliens,Aliens vs. Ospreys 3002 Pine Bowl: 14-31, vs. 
+TRUE,FALSE,3003,DT Round 1,Sharks,Cactuses,10,14,L,W,,,Cactuses,Sharks,Sharks vs. Cactuses 3003 DT Round 1: 10-14, vs. 
+TRUE,TRUE,3003,DT Round 1,Squids,Zephyrs,20,10,W,L,,,Squids,Zephyrs,Squids vs. Zephyrs 3003 DT Round 1: 20-10 (OT), vs. 
+TRUE,FALSE,3003,DT Round 1,Sailors,Flyingfish,0,49,L,W,,,Flyingfish,Sailors,Sailors vs. Flyingfish 3003 DT Round 1: 0-49, vs. 
+TRUE,FALSE,3003,DT Round 1,Turtles,Skeleton Crew,0,14,L,W,,,Skeleton Crew,Turtles,Turtles vs. Skeleton Crew 3003 DT Round 1: 0-14, vs. 
+TRUE,FALSE,3003,DT Round 2,Skeleton Crew,Flyingfish,10,18,L,W,,,Flyingfish,Skeleton Crew,Skeleton Crew vs. Flyingfish 3003 DT Round 2: 10-18, vs. 
+TRUE,FALSE,3003,DT Round 2,Cactuses,Squids,7,10,L,W,,,Squids,Cactuses,Cactuses vs. Squids 3003 DT Round 2: 7-10, vs. 
+TRUE,FALSE,3003,DT Round 3,Squids,Flyingfish,6,35,L,W,,,Flyingfish,Squids,Squids vs. Flyingfish 3003 DT Round 3: 6-35, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Sailors,Bats,7,28,L,W,16,1,Bats,Sailors,Sailors vs. Bats 3003 SCFT Round 1: 7-28, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Sharks,Mooses,0,14,L,W,13,4,Mooses,Sharks,Sharks vs. Mooses 3003 SCFT Round 1: 0-14, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Zephyrs,Yetis,14,28,L,W,,3,Yetis,Zephyrs,Zephyrs vs. Yetis 3003 SCFT Round 1: 14-28, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Flyingfish,Rocks,28,7,W,L,9,8,Flyingfish,Rocks,Flyingfish vs. Rocks 3003 SCFT Round 1: 28-7, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Squids,Crabs,3,28,L,W,10,7,Crabs,Squids,Squids vs. Crabs 3003 SCFT Round 1: 3-28, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Skeleton Crew,Aliens,19,15,W,L,11,6,Skeleton Crew,Aliens,Skeleton Crew vs. Aliens 3003 SCFT Round 1: 19-15, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Cactuses,Ospreys,21,14,W,L,12,5,Cactuses,Ospreys,Cactuses vs. Ospreys 3003 SCFT Round 1: 21-14, vs. 
+TRUE,FALSE,3003,SCFT Round 1,Turtles,Cows,28,0,W,L,15,2,Turtles,Cows,Turtles vs. Cows 3003 SCFT Round 1: 28-0, vs. 
+TRUE,FALSE,3003,SCFT Round 2,Flyingfish,Bats,21,14,W,L,9,1,Flyingfish,Bats,Flyingfish vs. Bats 3003 SCFT Round 2: 21-14, vs. 
+TRUE,FALSE,3003,SCFT Round 2,Skeleton Crew,Yetis,20,21,L,W,11,4,Yetis,Skeleton Crew,Skeleton Crew vs. Yetis 3003 SCFT Round 2: 20-21, vs. 
+TRUE,FALSE,3003,SCFT Round 2,Turtles,Crabs,14,24,L,W,15,7,Crabs,Turtles,Turtles vs. Crabs 3003 SCFT Round 2: 14-24, vs. 
+TRUE,FALSE,3003,SCFT Round 2,Cactuses,Mooses,0,45,L,W,12,4,Mooses,Cactuses,Cactuses vs. Mooses 3003 SCFT Round 2: 0-45, vs. 
+TRUE,FALSE,3003,SCFT Semi-Final,Flyingfish,Mooses,35,0,W,L,9,4,Flyingfish,Mooses,Flyingfish vs. Mooses 3003 SCFT Semi-Final: 35-0, vs. 
+TRUE,FALSE,3003,SCFT Semi-Final,Crabs,Yetis,28,11,W,L,7,3,Crabs,Yetis,Crabs vs. Yetis 3003 SCFT Semi-Final: 28-11, vs. 
+TRUE,FALSE,3003,SCFT Championship,Flyingfish,Crabs,31,17,W,L,9,7,Flyingfish,Crabs,Flyingfish vs. Crabs 3003 SCFT Championship: 31-17, vs. 
+TRUE,FALSE,3003,Game 1,Bats,Mooses,17,14,W,L,,3,Bats,Mooses,Bats vs. Mooses 3003 Game 1: 17-14, vs. 
+TRUE,FALSE,3003,Game 1,Rocks,Yetis,24,15,W,L,,4,Rocks,Yetis,Rocks vs. Yetis 3003 Game 1: 24-15, vs. 
+TRUE,FALSE,3003,Game 1,Skeleton Crew,Flyingfish,10,35,L,W,,1,Flyingfish,Skeleton Crew,Skeleton Crew vs. Flyingfish 3003 Game 1: 10-35, vs. 
+TRUE,FALSE,3003,Game 1,Turtles,Crabs,14,7,W,L,,2,Turtles,Crabs,Turtles vs. Crabs 3003 Game 1: 14-7, vs. 
+TRUE,FALSE,3003,Game 1,Squids,Aliens,7,24,L,W,,,Aliens,Squids,Squids vs. Aliens 3003 Game 1: 7-24, vs. 
+TRUE,FALSE,3003,Game 1,Cactuses,Ospreys,7,14,L,W,,,Ospreys,Cactuses,Cactuses vs. Ospreys 3003 Game 1: 7-14, vs. 
+,FALSE,3003,Game 2,Skeleton Crew,Bats,6,21,L,W,,2,Bats,Skeleton Crew,Skeleton Crew @ Bats 3003 Game 2: 6-21, @ 
+,FALSE,3003,Game 2,Yetis,Mooses,7,38,L,W,,,Mooses,Yetis,Yetis @ Mooses 3003 Game 2: 7-38, @ 
+,FALSE,3003,Game 2,Flyingfish,Ospreys,28,10,W,L,1,,Flyingfish,Ospreys,Flyingfish @ Ospreys 3003 Game 2: 28-10, @ 
+,FALSE,3003,Game 2,Crabs,Aliens,29,17,W,L,,,Crabs,Aliens,Crabs @ Aliens 3003 Game 2: 29-17, @ 
+,FALSE,3003,Game 2,Turtles,Cactuses,22,15,W,L,3,,Turtles,Cactuses,Turtles @ Cactuses 3003 Game 2: 22-15, @ 
+,FALSE,3003,Game 2,Rocks,Squids,21,10,W,L,4,,Rocks,Squids,Rocks @ Squids 3003 Game 2: 21-10, @ 
+,FALSE,3003,Game 3,Bats,Yetis,28,13,W,L,2,,Bats,Yetis,Bats @ Yetis 3003 Game 3: 28-13, @ 
+,FALSE,3003,Game 3,Squids,Flyingfish,0,66,L,W,,1,Flyingfish,Squids,Squids @ Flyingfish 3003 Game 3: 0-66, @ 
+,FALSE,3003,Game 3,Cactuses,Crabs,20,7,W,L,,,Cactuses,Crabs,Cactuses @ Crabs 3003 Game 3: 20-7, @ 
+,FALSE,3003,Game 3,Ospreys,Skeleton Crew,14,20,L,W,,,Skeleton Crew,Ospreys,Ospreys @ Skeleton Crew 3003 Game 3: 14-20, @ 
+,FALSE,3003,Game 3,Aliens,Rocks,0,17,L,W,,4,Rocks,Aliens,Aliens @ Rocks 3003 Game 3: 0-17, @ 
+,FALSE,3003,Game 3,Mooses,Turtles,7,28,L,W,3,,Turtles,Mooses,Mooses @ Turtles 3003 Game 3: 7-28, @ 
+,FALSE,3003,Game 4,Flyingfish,Bats,14,21,L,W,1,2,Bats,Flyingfish,Flyingfish @ Bats 3003 Game 4: 14-21, @ 
+,FALSE,3003,Game 4,Yetis,Cactuses,10,14,L,W,,,Cactuses,Yetis,Yetis @ Cactuses 3003 Game 4: 10-14, @ 
+,FALSE,3003,Game 4,Crabs,Squids,14,21,L,W,,,Squids,Crabs,Crabs @ Squids 3003 Game 4: 14-21, @ 
+,FALSE,3003,Game 4,Skeleton Crew,Mooses,16,28,L,W,,,Mooses,Skeleton Crew,Skeleton Crew @ Mooses 3003 Game 4: 16-28, @ 
+,FALSE,3003,Game 4,Rocks,Ospreys,21,7,W,L,3,,Rocks,Ospreys,Rocks @ Ospreys 3003 Game 4: 21-7, @ 
+,FALSE,3003,Game 4,Turtles,Aliens,21,7,W,L,4,,Turtles,Aliens,Turtles @ Aliens 3003 Game 4: 21-7, @ 
+,FALSE,3003,Game 5,Bats,Crabs,23,17,W,L,1,,Bats,Crabs,Bats @ Crabs 3003 Game 5: 23-17, @ 
+,FALSE,3003,Game 5,Yetis,Flyingfish,7,28,L,W,,2,Flyingfish,Yetis,Yetis @ Flyingfish 3003 Game 5: 7-28, @ 
+,FALSE,3003,Game 5,Rocks,Skeleton Crew,17,14,W,L,,,Rocks,Skeleton Crew,Rocks @ Skeleton Crew 3003 Game 5: 17-14, @ 
+,FALSE,3003,Game 5,Cactuses,Squids,17,14,W,L,,,Cactuses,Squids,Cactuses @ Squids 3003 Game 5: 17-14, @ 
+,FALSE,3003,Game 5,Ospreys,Turtles,16,17,L,W,,4,Turtles,Ospreys,Ospreys @ Turtles 3003 Game 5: 16-17, @ 
+,FALSE,3003,Game 5,Aliens,Mooses,0,38,L,W,,,Mooses,Aliens,Aliens @ Mooses 3003 Game 5: 0-38, @ 
+,FALSE,3003,Game 6,Squids,Bats,0,24,L,W,,1,Bats,Squids,Squids @ Bats 3003 Game 6: 0-24, @ 
+,FALSE,3003,Game 6,Cactuses,Flyingfish,7,24,L,W,,2,Flyingfish,Cactuses,Cactuses @ Flyingfish 3003 Game 6: 7-24, @ 
+,FALSE,3003,Game 6,Skeleton Crew,Turtles,10,7,W,L,,4,Skeleton Crew,Turtles,Skeleton Crew @ Turtles 3003 Game 6: 10-7, @ 
+,FALSE,3003,Game 6,Mooses,Rocks,17,21,L,W,,3,Rocks,Mooses,Mooses @ Rocks 3003 Game 6: 17-21, @ 
+,FALSE,3003,Game 6,Crabs,Yetis,0,0,T,T,,,TIE,TIE,Crabs @ Yetis 3003 Game 6: 0-0, @ 
+,FALSE,3003,Game 6,Ospreys,Aliens,0,0,T,T,,,TIE,TIE,Ospreys @ Aliens 3003 Game 6: 0-0, @ 
+FALSE,FALSE,3003,Game 7,Bats,Cactuses,24,3,W,L,1,,Bats,Cactuses,Bats @ Cactuses 3003 Game 7: 24-3, @ 
+FALSE,FALSE,3003,Game 7,Turtles,Rocks,25,21,W,L,,3,Turtles,Rocks,Turtles @ Rocks 3003 Game 7: 25-21, @ 
+FALSE,FALSE,3003,Game 7,Squids,Yetis,0,0,T,T,,,TIE,TIE,Squids @ Yetis 3003 Game 7: 0-0, @ 
+FALSE,FALSE,3003,Game 7,Aliens,Skeleton Crew,0,0,T,T,,,TIE,TIE,Aliens @ Skeleton Crew 3003 Game 7: 0-0, @ 
+FALSE,FALSE,3003,Game 7,Mooses,Ospreys,0,0,T,T,,,TIE,TIE,Mooses @ Ospreys 3003 Game 7: 0-0, @ 
+FALSE,FALSE,3003,Game 7,Flyingfish,Crabs,0,0,T,T,,,TIE,TIE,Flyingfish @ Crabs 3003 Game 7: 0-0, @ 
+FALSE,FALSE,3003,Ax Bowl,Turtles,Rocks,14,20,L,W,3,4,Rocks,Turtles,Turtles @ Rocks 3003 Ax Bowl: 14-20, @ 
+FALSE,FALSE,3003,Anchor Bowl,Flyingfish,Bats,0,21,L,W,2,1,Bats,Flyingfish,Flyingfish @ Bats 3003 Anchor Bowl: 0-21, @ 
+TRUE,FALSE,3003,Sock Bowl,Rocks,Bats,14,31,L,W,4,1,Bats,Rocks,Rocks vs. Bats 3003 Sock Bowl: 14-31, vs. 
+TRUE,FALSE,3003,Pine Bowl,TBD,TBD,0,0,T,T,,,TIE,TIE,TBD vs. TBD 3003 Pine Bowl: 0-0, vs. 
