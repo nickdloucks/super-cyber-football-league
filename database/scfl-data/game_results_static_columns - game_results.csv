@@ -1,183 +1,183 @@
 neutral_site,overtime,year,game,away_team,home_team,away_score,home_score,away_rank,home_rank
-TRUE,FALSE,3001,Game 1,Bats,Zephyrs,8,16,,
-TRUE,FALSE,3001,Game 1,Flyingfish,Sharks,10,12,,
-TRUE,FALSE,3001,Game 1,Yetis,Mooses,6,10,,
-TRUE,FALSE,3001,Game 1,Skeleton Crew,Rocks,0,22,,
-TRUE,FALSE,3001,Game 1,Squids,Turtles,0,7,,
-TRUE,FALSE,3001,Game 1,Ospreys,Aliens,6,16,,
-TRUE,FALSE,3001,Game 2,Bats,Rocks,7,22,,1
-TRUE,FALSE,3001,Game 2,Zephyrs,Sharks,7,27,,
-TRUE,FALSE,3001,Game 2,Turtles,Yetis,7,15,,
-TRUE,FALSE,3001,Game 2,Skeleton Crew,Flyingfish,3,7,,
-TRUE,FALSE,3001,Game 2,Squids,Ospreys,7,14,,
-TRUE,FALSE,3001,Game 2,Aliens,Mooses,10,28,2,
-TRUE,FALSE,3001,Game 3,Bats,Ospreys,14,15,,
-TRUE,FALSE,3001,Game 3,Sharks,Mooses,8,14,,3
-TRUE,TRUE,3001,Game 3,Rocks,Zephyrs,21,23,1,
-TRUE,FALSE,3001,Game 3,Aliens,Yetis,6,10,,
-TRUE,FALSE,3001,Game 3,Squids,Flyingfish,9,13,,
-TRUE,FALSE,3001,Game 3,Skeleton Crew,Turtles,6,30,,
-TRUE,FALSE,3001,Game 4,Aliens,Bats,7,9,,
-TRUE,FALSE,3001,Game 4,Squids,Sharks,0,23,,4
-TRUE,FALSE,3001,Game 4,Zephyrs,Yetis,0,11,,
-TRUE,FALSE,3001,Game 4,Flyingfish,Mooses,6,23,,1
-TRUE,FALSE,3001,Game 4,Ospreys,Skeleton Crew,8,9,,
-TRUE,FALSE,3001,Game 4,Rocks,Turtles,6,22,2,3
-TRUE,FALSE,3001,Game 5,Bats,Sharks,0,12,,2
-TRUE,FALSE,3001,Game 5,Zephyrs,Aliens,0,14,,
-TRUE,FALSE,3001,Game 5,Skeleton Crew,Yetis,0,40,,4
-TRUE,FALSE,3001,Game 5,Flyingfish,Turtles,7,13,,3
-TRUE,FALSE,3001,Game 5,Squids,Rocks,0,21,,
-TRUE,FALSE,3001,Game 5,Ospreys,Mooses,7,13,,1
-TRUE,FALSE,3001,Game 6,Squids,Bats,7,12,,
-TRUE,FALSE,3001,Game 6,Yetis,Sharks,0,10,3,2
-TRUE,FALSE,3001,Game 6,Rocks,Flyingfish,7,8,,
-TRUE,FALSE,3001,Game 6,Skeleton Crew,Aliens,14,16,,
-TRUE,FALSE,3001,Game 6,Ospreys,Turtles,0,14,,
-TRUE,FALSE,3001,Game 6,Zephyrs,Mooses,0,10,,
-TRUE,FALSE,3001,Game 7,Bats,Mooses,3,7,,1
-TRUE,FALSE,3001,Game 7,Ospreys,Sharks,0,6,,2
-TRUE,FALSE,3001,Game 7,Flyingfish,Yetis,8,16,,4
-TRUE,FALSE,3001,Game 7,Squids,Skeleton Crew,3,21,,
-TRUE,FALSE,3001,Game 7,Rocks,Aliens,0,8,,
-TRUE,FALSE,3001,Game 7,Zephyrs,Turtles,0,14,,
-TRUE,FALSE,3001,Ax Bowl,Turtles,Mooses,7,18,2,1
-TRUE,FALSE,3001,Anchor Bowl,Sharks,Yetis,10,29,3,4
-TRUE,FALSE,3001,Sock Bowl,Yetis,Mooses,6,9,4,1
-TRUE,FALSE,3001,Pine Bowl,(No eligible challenger),Aliens,0,0,,
-TRUE,FALSE,3002,DT Round 1,Sailors,Bats,7,27,,
-TRUE,FALSE,3002,DT Round 1,Cactuses,Zephyrs,0,21,,
-TRUE,FALSE,3002,DT Round 1,Skeleton Crew,Crabs,14,21,,
-TRUE,FALSE,3002,DT Round 1,Squids,Cows,6,14,,
-TRUE,FALSE,3002,DT Round 2,Zephyrs,Bats,3,14,,
-TRUE,FALSE,3002,DT Round 2,Crabs,Cows,14,17,,
-TRUE,FALSE,3002,DT Round 3,Bats,Cows,13,14,,
-TRUE,FALSE,3002,SCFT Round 1,Bats,Flyingfish,14,10,10,7
-TRUE,FALSE,3002,SCFT Round 1,Squids,Sharks,3,21,14,3
-TRUE,FALSE,3002,SCFT Round 1,Crabs,Aliens,0,7,12,5
-TRUE,FALSE,3002,SCFT Round 1,Zephyrs,Rocks,17,7,11,6
-TRUE,FALSE,3002,SCFT Round 1,Skeleton Crew,Yetis,6,11,13,4
-TRUE,FALSE,3002,SCFT Round 1,Cactuses,Mooses,3,7,16,1
-TRUE,FALSE,3002,SCFT Round 1,Sailors,Turtles,0,21,15,2
-TRUE,FALSE,3002,SCFT Round 1,Cows,Ospreys,7,21,9,8
-TRUE,FALSE,3002,SCFT Round 2,Bats,Turtles,21,3,10,2
-TRUE,FALSE,3002,SCFT Round 2,Zephyrs,Sharks,0,14,11,3
-TRUE,FALSE,3002,SCFT Round 2,Aliens,Yetis,10,21,5,4
-TRUE,FALSE,3002,SCFT Round 2,Ospreys,Mooses,14,17,8,1
-TRUE,FALSE,3002,SCFT Semi-Final,Yetis,Mooses,6,14,4,1
-TRUE,FALSE,3002,SCFT Semi-Final,Bats,Sharks,21,10,10,3
-TRUE,FALSE,3002,SCFT Championship,Bats,Mooses,17,3,10,1
-TRUE,FALSE,3002,Game 1,Flyingfish,Bats,0,27,,1
-TRUE,FALSE,3002,Game 1,Yetis,Sharks,14,7,4,3
-TRUE,FALSE,3002,Game 1,Crabs,Zephyrs,6,13,,
-TRUE,FALSE,3002,Game 1,Rocks,Ospreys,7,16,,
-TRUE,FALSE,3002,Game 1,Turtles,Mooses,0,14,,2
-TRUE,FALSE,3002,Game 1,Aliens,Cows,3,7,,
-TRUE,FALSE,3002,Game 2,Crabs,Bats,0,28,,1
-TRUE,FALSE,3002,Game 2,Sharks,Flyingfish,7,13,,
-TRUE,FALSE,3002,Game 2,Zephyrs,Yetis,3,10,,4
-TRUE,FALSE,3002,Game 2,Rocks,Mooses,6,14,,2
-TRUE,FALSE,3002,Game 2,Turtles,Aliens,6,7,,
-TRUE,FALSE,3002,Game 2,Cows,Ospreys,7,8,,3
-TRUE,FALSE,3002,Game 3,Ospreys,Bats,17,7,4,1
-TRUE,FALSE,3002,Game 3,Turtles,Sharks,7,28,,
-TRUE,FALSE,3002,Game 3,Zephyrs,Cows,0,14,,
-TRUE,FALSE,3002,Game 3,Rocks,Yetis,15,8,,3
-TRUE,FALSE,3002,Game 3,Crabs,Aliens,14,21,,
-TRUE,FALSE,3002,Game 3,Flyingfish,Mooses,0,28,,2
-TRUE,FALSE,3002,Game 4,Bats,Mooses,21,0,3,1
-TRUE,FALSE,3002,Game 4,Zephyrs,Sharks,13,14,,
-TRUE,FALSE,3002,Game 4,Crabs,Yetis,14,6,,
-TRUE,FALSE,3002,Game 4,Turtles,Flyingfish,7,21,,
-TRUE,FALSE,3002,Game 4,Rocks,Cows,3,21,,4
-TRUE,FALSE,3002,Game 4,Aliens,Ospreys,7,24,,2
-TRUE,FALSE,3002,Game 5,Zephyrs,Bats,3,7,,2
-TRUE,FALSE,3002,Game 5,Sharks,Rocks,10,13,,
-TRUE,FALSE,3002,Game 5,Yetis,Ospreys,21,7,,1
-TRUE,FALSE,3002,Game 5,Crabs,Flyingfish,14,3,,
-TRUE,FALSE,3002,Game 5,Turtles,Cows,6,14,,3
-TRUE,FALSE,3002,Game 5,Aliens,Mooses,6,17,,4
-TRUE,FALSE,3002,Game 6,Yetis,Bats,9,21,,1
-TRUE,FALSE,3002,Game 6,Sharks,Crabs,10,17,,
-TRUE,FALSE,3002,Game 6,Zephyrs,Flyingfish,6,14,,
-TRUE,FALSE,3002,Game 6,Rocks,Aliens,3,24,,
-TRUE,FALSE,3002,Game 6,Turtles,Ospreys,22,14,,4
-TRUE,FALSE,3002,Game 6,Mooses,Cows,14,18,3,2
-TRUE,FALSE,3002,Game 7,Sharks,Bats,3,28,,1
-TRUE,FALSE,3002,Game 7,Zephyrs,Aliens,7,14,,
-TRUE,FALSE,3002,Game 7,Flyingfish,Yetis,7,18,,
-TRUE,FALSE,3002,Game 7,Crabs,Cows,7,17,,2
-TRUE,FALSE,3002,Game 7,Turtles,Rocks,11,17,,
-TRUE,FALSE,3002,Game 7,Ospreys,Mooses,10,20,,3
-TRUE,FALSE,3002,Ax Bowl,Mooses,Cows,17,14,3,2
-TRUE,TRUE,3002,Anchor Bowl,Yetis,Bats,28,21,4,1
-TRUE,FALSE,3002,Sock Bowl,Yetis,Mooses,31,14,4,3
-TRUE,FALSE,3002,Pine Bowl,Aliens,Ospreys,14,31,,
-TRUE,FALSE,3003,DT Round 1,Sharks,Cactuses,10,14,,
-TRUE,TRUE,3003,DT Round 1,Squids,Zephyrs,20,10,,
-TRUE,FALSE,3003,DT Round 1,Sailors,Flyingfish,0,49,,
-TRUE,FALSE,3003,DT Round 1,Turtles,Skeleton Crew,0,14,,
-TRUE,FALSE,3003,DT Round 2,Skeleton Crew,Flyingfish,10,18,,
-TRUE,FALSE,3003,DT Round 2,Cactuses,Squids,7,10,,
-TRUE,FALSE,3003,DT Round 3,Squids,Flyingfish,6,35,,
-TRUE,FALSE,3003,SCFT Round 1,Sailors,Bats,7,28,16,1
-TRUE,FALSE,3003,SCFT Round 1,Sharks,Mooses,0,14,13,4
-TRUE,FALSE,3003,SCFT Round 1,Zephyrs,Yetis,14,28,,3
-TRUE,FALSE,3003,SCFT Round 1,Flyingfish,Rocks,28,7,9,8
-TRUE,FALSE,3003,SCFT Round 1,Squids,Crabs,3,28,10,7
-TRUE,FALSE,3003,SCFT Round 1,Skeleton Crew,Aliens,19,15,11,6
-TRUE,FALSE,3003,SCFT Round 1,Cactuses,Ospreys,21,14,12,5
-TRUE,FALSE,3003,SCFT Round 1,Turtles,Cows,28,0,15,2
-TRUE,FALSE,3003,SCFT Round 2,Flyingfish,Bats,21,14,9,1
-TRUE,FALSE,3003,SCFT Round 2,Skeleton Crew,Yetis,20,21,11,4
-TRUE,FALSE,3003,SCFT Round 2,Turtles,Crabs,14,24,15,7
-TRUE,FALSE,3003,SCFT Round 2,Cactuses,Mooses,0,45,12,4
-TRUE,FALSE,3003,SCFT Semi-Final,Flyingfish,Mooses,35,0,9,4
-TRUE,FALSE,3003,SCFT Semi-Final,Crabs,Yetis,28,11,7,3
-TRUE,FALSE,3003,SCFT Championship,Flyingfish,Crabs,31,17,9,7
-TRUE,FALSE,3003,Game 1,Bats,Mooses,17,14,,3
-TRUE,FALSE,3003,Game 1,Rocks,Yetis,24,15,,4
-TRUE,FALSE,3003,Game 1,Skeleton Crew,Flyingfish,10,35,,1
-TRUE,FALSE,3003,Game 1,Turtles,Crabs,14,7,,2
-TRUE,FALSE,3003,Game 1,Squids,Aliens,7,24,,
-TRUE,FALSE,3003,Game 1,Cactuses,Ospreys,7,14,,
-FALSE,FALSE,3003,Game 2,Skeleton Crew,Bats,6,21,,2
-FALSE,FALSE,3003,Game 2,Yetis,Mooses,7,38,,
-FALSE,FALSE,3003,Game 2,Flyingfish,Ospreys,28,10,1,
-FALSE,FALSE,3003,Game 2,Crabs,Aliens,29,17,,
-FALSE,FALSE,3003,Game 2,Turtles,Cactuses,22,15,3,
-FALSE,FALSE,3003,Game 2,Rocks,Squids,21,10,4,
-FALSE,FALSE,3003,Game 3,Bats,Yetis,28,13,2,
-FALSE,FALSE,3003,Game 3,Squids,Flyingfish,0,66,,1
-FALSE,FALSE,3003,Game 3,Cactuses,Crabs,20,7,,
-FALSE,FALSE,3003,Game 3,Ospreys,Skeleton Crew,14,20,,
-FALSE,FALSE,3003,Game 3,Aliens,Rocks,0,17,,4
-FALSE,FALSE,3003,Game 3,Mooses,Turtles,7,28,3,
-FALSE,FALSE,3003,Game 4,Flyingfish,Bats,14,21,1,2
-FALSE,FALSE,3003,Game 4,Yetis,Cactuses,10,14,,
-FALSE,FALSE,3003,Game 4,Crabs,Squids,14,21,,
-FALSE,FALSE,3003,Game 4,Skeleton Crew,Mooses,16,28,,
-FALSE,FALSE,3003,Game 4,Rocks,Ospreys,21,7,3,
-FALSE,FALSE,3003,Game 4,Turtles,Aliens,21,7,4,
-FALSE,FALSE,3003,Game 5,Bats,Crabs,23,17,1,
-FALSE,FALSE,3003,Game 5,Yetis,Flyingfish,7,28,,2
-FALSE,FALSE,3003,Game 5,Rocks,Skeleton Crew,17,14,,
-FALSE,FALSE,3003,Game 5,Cactuses,Squids,17,14,,
-FALSE,FALSE,3003,Game 5,Ospreys,Turtles,16,17,,4
-FALSE,FALSE,3003,Game 5,Aliens,Mooses,0,38,,
-FALSE,FALSE,3003,Game 6,Squids,Bats,0,24,,1
-FALSE,FALSE,3003,Game 6,Cactuses,Flyingfish,7,24,,2
-FALSE,FALSE,3003,Game 6,Skeleton Crew,Turtles,10,7,,4
-FALSE,FALSE,3003,Game 6,Mooses,Rocks,17,21,,3
-FALSE,FALSE,3003,Game 6,Crabs,Yetis,0,0,,
-FALSE,FALSE,3003,Game 6,Ospreys,Aliens,0,0,,
-FALSE,FALSE,3003,Game 7,Bats,Cactuses,24,3,1,
-FALSE,FALSE,3003,Game 7,Turtles,Rocks,25,21,,3
-FALSE,FALSE,3003,Game 7,Squids,Yetis,0,0,,
-FALSE,FALSE,3003,Game 7,Aliens,Skeleton Crew,0,0,,
-FALSE,FALSE,3003,Game 7,Mooses,Ospreys,0,0,,
-FALSE,FALSE,3003,Game 7,Flyingfish,Crabs,0,0,,
-FALSE,FALSE,3003,Ax Bowl,Turtles,Rocks,14,20,3,4
-FALSE,FALSE,3003,Anchor Bowl,Flyingfish,Bats,0,21,2,1
-TRUE,FALSE,3003,Sock Bowl,Rocks,Bats,14,31,4,1
-TRUE,FALSE,3003,Pine Bowl,TBD,TBD,0,0,,
+1,0,3001,Game 1,Bats,Zephyrs,8,16,0,0
+1,0,3001,Game 1,Flyingfish,Sharks,10,12,0,0
+1,0,3001,Game 1,Yetis,Mooses,6,10,0,0
+1,0,3001,Game 1,Skeleton Crew,Rocks,0,22,0,0
+1,0,3001,Game 1,Squids,Turtles,0,7,0,0
+1,0,3001,Game 1,Ospreys,Aliens,6,16,0,0
+1,0,3001,Game 2,Bats,Rocks,7,22,0,1
+1,0,3001,Game 2,Zephyrs,Sharks,7,27,0,0
+1,0,3001,Game 2,Turtles,Yetis,7,15,0,0
+1,0,3001,Game 2,Skeleton Crew,Flyingfish,3,7,0,0
+1,0,3001,Game 2,Squids,Ospreys,7,14,0,0
+1,0,3001,Game 2,Aliens,Mooses,10,28,2,0
+1,0,3001,Game 3,Bats,Ospreys,14,15,0,0
+1,0,3001,Game 3,Sharks,Mooses,8,14,0,3
+1,1,3001,Game 3,Rocks,Zephyrs,21,23,1,0
+1,0,3001,Game 3,Aliens,Yetis,6,10,0,0
+1,0,3001,Game 3,Squids,Flyingfish,9,13,0,0
+1,0,3001,Game 3,Skeleton Crew,Turtles,6,30,0,0
+1,0,3001,Game 4,Aliens,Bats,7,9,0,0
+1,0,3001,Game 4,Squids,Sharks,0,23,0,4
+1,0,3001,Game 4,Zephyrs,Yetis,0,11,0,0
+1,0,3001,Game 4,Flyingfish,Mooses,6,23,0,1
+1,0,3001,Game 4,Ospreys,Skeleton Crew,8,9,0,0
+1,0,3001,Game 4,Rocks,Turtles,6,22,2,3
+1,0,3001,Game 5,Bats,Sharks,0,12,0,2
+1,0,3001,Game 5,Zephyrs,Aliens,0,14,0,0
+1,0,3001,Game 5,Skeleton Crew,Yetis,0,40,0,4
+1,0,3001,Game 5,Flyingfish,Turtles,7,13,0,3
+1,0,3001,Game 5,Squids,Rocks,0,21,0,0
+1,0,3001,Game 5,Ospreys,Mooses,7,13,0,1
+1,0,3001,Game 6,Squids,Bats,7,12,0,0
+1,0,3001,Game 6,Yetis,Sharks,0,10,3,2
+1,0,3001,Game 6,Rocks,Flyingfish,7,8,0,0
+1,0,3001,Game 6,Skeleton Crew,Aliens,14,16,0,0
+1,0,3001,Game 6,Ospreys,Turtles,0,14,0,0
+1,0,3001,Game 6,Zephyrs,Mooses,0,10,0,0
+1,0,3001,Game 7,Bats,Mooses,3,7,0,1
+1,0,3001,Game 7,Ospreys,Sharks,0,6,0,2
+1,0,3001,Game 7,Flyingfish,Yetis,8,16,0,4
+1,0,3001,Game 7,Squids,Skeleton Crew,3,21,0,0
+1,0,3001,Game 7,Rocks,Aliens,0,8,0,0
+1,0,3001,Game 7,Zephyrs,Turtles,0,14,0,0
+1,0,3001,Ax Bowl,Turtles,Mooses,7,18,2,1
+1,0,3001,Anchor Bowl,Sharks,Yetis,10,29,3,4
+1,0,3001,Sock Bowl,Yetis,Mooses,6,9,4,1
+1,0,3001,Pine Bowl,(No eligible challenger),Aliens,0,0,0,0
+1,0,3002,DT Round 1,Sailors,Bats,7,27,0,0
+1,0,3002,DT Round 1,Cactuses,Zephyrs,0,21,0,0
+1,0,3002,DT Round 1,Skeleton Crew,Crabs,14,21,0,0
+1,0,3002,DT Round 1,Squids,Cows,6,14,0,0
+1,0,3002,DT Round 2,Zephyrs,Bats,3,14,0,0
+1,0,3002,DT Round 2,Crabs,Cows,14,17,0,0
+1,0,3002,DT Round 3,Bats,Cows,13,14,0,0
+1,0,3002,SCFT Round 1,Bats,Flyingfish,14,10,10,7
+1,0,3002,SCFT Round 1,Squids,Sharks,3,21,14,3
+1,0,3002,SCFT Round 1,Crabs,Aliens,0,7,12,5
+1,0,3002,SCFT Round 1,Zephyrs,Rocks,17,7,11,6
+1,0,3002,SCFT Round 1,Skeleton Crew,Yetis,6,11,13,4
+1,0,3002,SCFT Round 1,Cactuses,Mooses,3,7,16,1
+1,0,3002,SCFT Round 1,Sailors,Turtles,0,21,15,2
+1,0,3002,SCFT Round 1,Cows,Ospreys,7,21,9,8
+1,0,3002,SCFT Round 2,Bats,Turtles,21,3,10,2
+1,0,3002,SCFT Round 2,Zephyrs,Sharks,0,14,11,3
+1,0,3002,SCFT Round 2,Aliens,Yetis,10,21,5,4
+1,0,3002,SCFT Round 2,Ospreys,Mooses,14,17,8,1
+1,0,3002,SCFT Semi-Final,Yetis,Mooses,6,14,4,1
+1,0,3002,SCFT Semi-Final,Bats,Sharks,21,10,10,3
+1,0,3002,SCFT Championship,Bats,Mooses,17,3,10,1
+1,0,3002,Game 1,Flyingfish,Bats,0,27,0,1
+1,0,3002,Game 1,Yetis,Sharks,14,7,4,3
+1,0,3002,Game 1,Crabs,Zephyrs,6,13,0,0
+1,0,3002,Game 1,Rocks,Ospreys,7,16,0,0
+1,0,3002,Game 1,Turtles,Mooses,0,14,0,2
+1,0,3002,Game 1,Aliens,Cows,3,7,0,0
+1,0,3002,Game 2,Crabs,Bats,0,28,0,1
+1,0,3002,Game 2,Sharks,Flyingfish,7,13,0,0
+1,0,3002,Game 2,Zephyrs,Yetis,3,10,0,4
+1,0,3002,Game 2,Rocks,Mooses,6,14,0,2
+1,0,3002,Game 2,Turtles,Aliens,6,7,0,0
+1,0,3002,Game 2,Cows,Ospreys,7,8,0,3
+1,0,3002,Game 3,Ospreys,Bats,17,7,4,1
+1,0,3002,Game 3,Turtles,Sharks,7,28,0,0
+1,0,3002,Game 3,Zephyrs,Cows,0,14,0,0
+1,0,3002,Game 3,Rocks,Yetis,15,8,0,3
+1,0,3002,Game 3,Crabs,Aliens,14,21,0,0
+1,0,3002,Game 3,Flyingfish,Mooses,0,28,0,2
+1,0,3002,Game 4,Bats,Mooses,21,0,3,1
+1,0,3002,Game 4,Zephyrs,Sharks,13,14,0,0
+1,0,3002,Game 4,Crabs,Yetis,14,6,0,0
+1,0,3002,Game 4,Turtles,Flyingfish,7,21,0,0
+1,0,3002,Game 4,Rocks,Cows,3,21,0,4
+1,0,3002,Game 4,Aliens,Ospreys,7,24,0,2
+1,0,3002,Game 5,Zephyrs,Bats,3,7,0,2
+1,0,3002,Game 5,Sharks,Rocks,10,13,0,0
+1,0,3002,Game 5,Yetis,Ospreys,21,7,0,1
+1,0,3002,Game 5,Crabs,Flyingfish,14,3,0,0
+1,0,3002,Game 5,Turtles,Cows,6,14,0,3
+1,0,3002,Game 5,Aliens,Mooses,6,17,0,4
+1,0,3002,Game 6,Yetis,Bats,9,21,0,1
+1,0,3002,Game 6,Sharks,Crabs,10,17,0,0
+1,0,3002,Game 6,Zephyrs,Flyingfish,6,14,0,0
+1,0,3002,Game 6,Rocks,Aliens,3,24,0,0
+1,0,3002,Game 6,Turtles,Ospreys,22,14,0,4
+1,0,3002,Game 6,Mooses,Cows,14,18,3,2
+1,0,3002,Game 7,Sharks,Bats,3,28,0,1
+1,0,3002,Game 7,Zephyrs,Aliens,7,14,0,0
+1,0,3002,Game 7,Flyingfish,Yetis,7,18,0,0
+1,0,3002,Game 7,Crabs,Cows,7,17,0,2
+1,0,3002,Game 7,Turtles,Rocks,11,17,0,0
+1,0,3002,Game 7,Ospreys,Mooses,10,20,0,3
+1,0,3002,Ax Bowl,Mooses,Cows,17,14,3,2
+1,1,3002,Anchor Bowl,Yetis,Bats,28,21,4,1
+1,0,3002,Sock Bowl,Yetis,Mooses,31,14,4,3
+1,0,3002,Pine Bowl,Aliens,Ospreys,14,31,0,0
+1,0,3003,DT Round 1,Sharks,Cactuses,10,14,0,0
+1,1,3003,DT Round 1,Squids,Zephyrs,20,10,0,0
+1,0,3003,DT Round 1,Sailors,Flyingfish,0,49,0,0
+1,0,3003,DT Round 1,Turtles,Skeleton Crew,0,14,0,0
+1,0,3003,DT Round 2,Skeleton Crew,Flyingfish,10,18,0,0
+1,0,3003,DT Round 2,Cactuses,Squids,7,10,0,0
+1,0,3003,DT Round 3,Squids,Flyingfish,6,35,0,0
+1,0,3003,SCFT Round 1,Sailors,Bats,7,28,16,1
+1,0,3003,SCFT Round 1,Sharks,Mooses,0,14,13,4
+1,0,3003,SCFT Round 1,Zephyrs,Yetis,14,28,0,3
+1,0,3003,SCFT Round 1,Flyingfish,Rocks,28,7,9,8
+1,0,3003,SCFT Round 1,Squids,Crabs,3,28,10,7
+1,0,3003,SCFT Round 1,Skeleton Crew,Aliens,19,15,11,6
+1,0,3003,SCFT Round 1,Cactuses,Ospreys,21,14,12,5
+1,0,3003,SCFT Round 1,Turtles,Cows,28,0,15,2
+1,0,3003,SCFT Round 2,Flyingfish,Bats,21,14,9,1
+1,0,3003,SCFT Round 2,Skeleton Crew,Yetis,20,21,11,4
+1,0,3003,SCFT Round 2,Turtles,Crabs,14,24,15,7
+1,0,3003,SCFT Round 2,Cactuses,Mooses,0,45,12,4
+1,0,3003,SCFT Semi-Final,Flyingfish,Mooses,35,0,9,4
+1,0,3003,SCFT Semi-Final,Crabs,Yetis,28,11,7,3
+1,0,3003,SCFT Championship,Flyingfish,Crabs,31,17,9,7
+1,0,3003,Game 1,Bats,Mooses,17,14,0,3
+1,0,3003,Game 1,Rocks,Yetis,24,15,0,4
+1,0,3003,Game 1,Skeleton Crew,Flyingfish,10,35,0,1
+1,0,3003,Game 1,Turtles,Crabs,14,7,0,2
+1,0,3003,Game 1,Squids,Aliens,7,24,0,0
+1,0,3003,Game 1,Cactuses,Ospreys,7,14,0,0
+0,0,3003,Game 2,Skeleton Crew,Bats,6,21,0,2
+0,0,3003,Game 2,Yetis,Mooses,7,38,0,0
+0,0,3003,Game 2,Flyingfish,Ospreys,28,10,1,0
+0,0,3003,Game 2,Crabs,Aliens,29,17,0,0
+0,0,3003,Game 2,Turtles,Cactuses,22,15,3,0
+0,0,3003,Game 2,Rocks,Squids,21,10,4,0
+0,0,3003,Game 3,Bats,Yetis,28,13,2,0
+0,0,3003,Game 3,Squids,Flyingfish,0,66,0,1
+0,0,3003,Game 3,Cactuses,Crabs,20,7,0,0
+0,0,3003,Game 3,Ospreys,Skeleton Crew,14,20,0,0
+0,0,3003,Game 3,Aliens,Rocks,0,17,0,4
+0,0,3003,Game 3,Mooses,Turtles,7,28,3,0
+0,0,3003,Game 4,Flyingfish,Bats,14,21,1,2
+0,0,3003,Game 4,Yetis,Cactuses,10,14,0,0
+0,0,3003,Game 4,Crabs,Squids,14,21,0,0
+0,0,3003,Game 4,Skeleton Crew,Mooses,16,28,0,0
+0,0,3003,Game 4,Rocks,Ospreys,21,7,3,0
+0,0,3003,Game 4,Turtles,Aliens,21,7,4,0
+0,0,3003,Game 5,Bats,Crabs,23,17,1,0
+0,0,3003,Game 5,Yetis,Flyingfish,7,28,0,2
+0,0,3003,Game 5,Rocks,Skeleton Crew,17,14,0,0
+0,0,3003,Game 5,Cactuses,Squids,17,14,0,0
+0,0,3003,Game 5,Ospreys,Turtles,16,17,0,4
+0,0,3003,Game 5,Aliens,Mooses,0,38,0,0
+0,0,3003,Game 6,Squids,Bats,0,24,0,1
+0,0,3003,Game 6,Cactuses,Flyingfish,7,24,0,2
+0,0,3003,Game 6,Skeleton Crew,Turtles,10,7,0,4
+0,0,3003,Game 6,Mooses,Rocks,17,21,0,3
+0,0,3003,Game 6,Crabs,Yetis,0,0,0,0
+0,0,3003,Game 6,Ospreys,Aliens,0,0,0,0
+0,0,3003,Game 7,Bats,Cactuses,24,3,1,0
+0,0,3003,Game 7,Turtles,Rocks,25,21,0,3
+0,0,3003,Game 7,Squids,Yetis,0,0,0,0
+0,0,3003,Game 7,Aliens,Skeleton Crew,0,0,0,0
+0,0,3003,Game 7,Mooses,Ospreys,0,0,0,0
+0,0,3003,Game 7,Flyingfish,Crabs,0,0,0,0
+0,0,3003,Ax Bowl,Turtles,Rocks,14,20,3,4
+0,0,3003,Anchor Bowl,Flyingfish,Bats,0,21,2,1
+1,0,3003,Sock Bowl,Rocks,Bats,14,31,4,1
+1,0,3003,Pine Bowl,TBD,TBD,0,0,0,0
