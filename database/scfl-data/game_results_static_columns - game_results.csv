@@ -141,36 +141,36 @@ TRUE,FALSE,3003,Game 1,Skeleton Crew,Flyingfish,10,35,,1
 TRUE,FALSE,3003,Game 1,Turtles,Crabs,14,7,,2
 TRUE,FALSE,3003,Game 1,Squids,Aliens,7,24,,
 TRUE,FALSE,3003,Game 1,Cactuses,Ospreys,7,14,,
-,FALSE,3003,Game 2,Skeleton Crew,Bats,6,21,,2
-,FALSE,3003,Game 2,Yetis,Mooses,7,38,,
-,FALSE,3003,Game 2,Flyingfish,Ospreys,28,10,1,
-,FALSE,3003,Game 2,Crabs,Aliens,29,17,,
-,FALSE,3003,Game 2,Turtles,Cactuses,22,15,3,
-,FALSE,3003,Game 2,Rocks,Squids,21,10,4,
-,FALSE,3003,Game 3,Bats,Yetis,28,13,2,
-,FALSE,3003,Game 3,Squids,Flyingfish,0,66,,1
-,FALSE,3003,Game 3,Cactuses,Crabs,20,7,,
-,FALSE,3003,Game 3,Ospreys,Skeleton Crew,14,20,,
-,FALSE,3003,Game 3,Aliens,Rocks,0,17,,4
-,FALSE,3003,Game 3,Mooses,Turtles,7,28,3,
-,FALSE,3003,Game 4,Flyingfish,Bats,14,21,1,2
-,FALSE,3003,Game 4,Yetis,Cactuses,10,14,,
-,FALSE,3003,Game 4,Crabs,Squids,14,21,,
-,FALSE,3003,Game 4,Skeleton Crew,Mooses,16,28,,
-,FALSE,3003,Game 4,Rocks,Ospreys,21,7,3,
-,FALSE,3003,Game 4,Turtles,Aliens,21,7,4,
-,FALSE,3003,Game 5,Bats,Crabs,23,17,1,
-,FALSE,3003,Game 5,Yetis,Flyingfish,7,28,,2
-,FALSE,3003,Game 5,Rocks,Skeleton Crew,17,14,,
-,FALSE,3003,Game 5,Cactuses,Squids,17,14,,
-,FALSE,3003,Game 5,Ospreys,Turtles,16,17,,4
-,FALSE,3003,Game 5,Aliens,Mooses,0,38,,
-,FALSE,3003,Game 6,Squids,Bats,0,24,,1
-,FALSE,3003,Game 6,Cactuses,Flyingfish,7,24,,2
-,FALSE,3003,Game 6,Skeleton Crew,Turtles,10,7,,4
-,FALSE,3003,Game 6,Mooses,Rocks,17,21,,3
-,FALSE,3003,Game 6,Crabs,Yetis,0,0,,
-,FALSE,3003,Game 6,Ospreys,Aliens,0,0,,
+FALSE,FALSE,3003,Game 2,Skeleton Crew,Bats,6,21,,2
+FALSE,FALSE,3003,Game 2,Yetis,Mooses,7,38,,
+FALSE,FALSE,3003,Game 2,Flyingfish,Ospreys,28,10,1,
+FALSE,FALSE,3003,Game 2,Crabs,Aliens,29,17,,
+FALSE,FALSE,3003,Game 2,Turtles,Cactuses,22,15,3,
+FALSE,FALSE,3003,Game 2,Rocks,Squids,21,10,4,
+FALSE,FALSE,3003,Game 3,Bats,Yetis,28,13,2,
+FALSE,FALSE,3003,Game 3,Squids,Flyingfish,0,66,,1
+FALSE,FALSE,3003,Game 3,Cactuses,Crabs,20,7,,
+FALSE,FALSE,3003,Game 3,Ospreys,Skeleton Crew,14,20,,
+FALSE,FALSE,3003,Game 3,Aliens,Rocks,0,17,,4
+FALSE,FALSE,3003,Game 3,Mooses,Turtles,7,28,3,
+FALSE,FALSE,3003,Game 4,Flyingfish,Bats,14,21,1,2
+FALSE,FALSE,3003,Game 4,Yetis,Cactuses,10,14,,
+FALSE,FALSE,3003,Game 4,Crabs,Squids,14,21,,
+FALSE,FALSE,3003,Game 4,Skeleton Crew,Mooses,16,28,,
+FALSE,FALSE,3003,Game 4,Rocks,Ospreys,21,7,3,
+FALSE,FALSE,3003,Game 4,Turtles,Aliens,21,7,4,
+FALSE,FALSE,3003,Game 5,Bats,Crabs,23,17,1,
+FALSE,FALSE,3003,Game 5,Yetis,Flyingfish,7,28,,2
+FALSE,FALSE,3003,Game 5,Rocks,Skeleton Crew,17,14,,
+FALSE,FALSE,3003,Game 5,Cactuses,Squids,17,14,,
+FALSE,FALSE,3003,Game 5,Ospreys,Turtles,16,17,,4
+FALSE,FALSE,3003,Game 5,Aliens,Mooses,0,38,,
+FALSE,FALSE,3003,Game 6,Squids,Bats,0,24,,1
+FALSE,FALSE,3003,Game 6,Cactuses,Flyingfish,7,24,,2
+FALSE,FALSE,3003,Game 6,Skeleton Crew,Turtles,10,7,,4
+FALSE,FALSE,3003,Game 6,Mooses,Rocks,17,21,,3
+FALSE,FALSE,3003,Game 6,Crabs,Yetis,0,0,,
+FALSE,FALSE,3003,Game 6,Ospreys,Aliens,0,0,,
 FALSE,FALSE,3003,Game 7,Bats,Cactuses,24,3,1,
 FALSE,FALSE,3003,Game 7,Turtles,Rocks,25,21,,3
 FALSE,FALSE,3003,Game 7,Squids,Yetis,0,0,,
