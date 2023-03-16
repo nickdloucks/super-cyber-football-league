@@ -43,10 +43,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0124698"
-     inkscape:cx="361.15837"
-     inkscape:cy="421.52901"
+     inkscape:cx="320.82795"
+     inkscape:cy="254.93968"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1190-7"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1267"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -76,7 +76,9 @@
        width="131.25374"
        height="65.107895"
        x="17.763655"
-       y="18.832678" />
+       y="18.832678"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
     <g
        id="g1190">
       <g
@@ -147,7 +149,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect242);fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.220757;stroke-miterlimit:4;stroke-dasharray:none;"
          transform="matrix(6.9624658,0,0,7.4186877,-262.60279,-265.20536)"><tspan
            x="45.435547"
-           y="46.538278"><tspan
+           y="46.246552"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#000000;stroke-width:0.220757;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></tspan></text>
     </g>
     <g
@@ -221,7 +223,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect242-6);fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:0.220757;stroke-miterlimit:4;stroke-dasharray:none;"
          transform="matrix(6.9624658,0,0,7.4186877,-262.60279,-265.20536)"><tspan
            x="45.435547"
-           y="46.538278"><tspan
+           y="46.246552"><tspan
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008000;stroke:#000000;stroke-width:0.220757;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></tspan></text>
     </g>
   </g>
