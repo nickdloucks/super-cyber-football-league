@@ -7,4 +7,4 @@ Users will be able to follow each game with an interface inspired by ESPN Gameca
 As more games are played, I will write articles about the biggest games and post them in a News/articles section.
 
 ------------------
-This SCFL app will use the MERN stack with Typescript.
+
