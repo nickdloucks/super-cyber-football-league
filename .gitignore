@@ -12,6 +12,7 @@
 # production
 /build
 database/scfl-data/db-access
+public/assets/lumen
 
 # misc
 .DS_Store
