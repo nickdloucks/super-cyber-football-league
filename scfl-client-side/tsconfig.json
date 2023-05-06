@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
+  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue", "../dev-notes/old-files/old-components/playoffs.tsx", "../dev-notes/old-files/old-components/scheduleTable.tsx", "../dev-notes/old-files/old-components/TeamCreator.tsx", "../dev-notes/old-files/old-components/teamGUI.tsx", "../dev-notes/old-files/old-components/teamSelector.tsx", "../dev-notes/old-files/old-components/TeamTag.tsx"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
