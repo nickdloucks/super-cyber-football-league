@@ -1,4 +1,4 @@
-import Team from "./TeamClass";
+import Team from "../types/TeamClass";
 import {TeamProfile, TeamRecord, TeamStats} from "./interfaces/teamInterfaces"
 
 

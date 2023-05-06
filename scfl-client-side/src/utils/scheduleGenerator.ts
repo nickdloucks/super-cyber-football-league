@@ -1,4 +1,4 @@
-import Team from "./TeamClass";
+import Team from "../types/TeamClass";
 
 /**
  * This function will generate a schedule for the subject team. The second parameter is the number of games 
