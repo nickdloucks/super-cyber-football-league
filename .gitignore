@@ -6,6 +6,7 @@
 .pnp.js
 *.env
 /database
+/dev-notes
 
 # testing
 /coverage
