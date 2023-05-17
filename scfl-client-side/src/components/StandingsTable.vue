@@ -1,21 +1,13 @@
 
-<script lang="ts">
+<script setup lang="ts">
     import type {TeamDisplay} from "../types/team"
-    import { defineComponent } from "vue";
+    // import { ref } from "vue";
 
-    export default defineComponent({
-        name: "StandingsTable",
-        props: {
-            items: {
-                type: Array<TeamDisplay>,
-                required: true,
-            },
-            tableHeader: {
-                type: String,
-                required: true,
-            },
-        },
-    });
+    const props = defineProps<{
+        items: Array<TeamDisplay>
+        tableHeader: string
+    }>()
+
 </script>
 
 <!-- let teams: Array<TeamDisplay> = [
@@ -33,7 +25,7 @@
     <table class="table">
       <thead>
         <tr>
-          <th colspan="8">{{ tableHeader }}</th>
+          <th colspan="8">{{ props.tableHeader }}</th>
         </tr>
         <tr>
           <!-- <th>Logo</th> -->
@@ -52,7 +44,7 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(item, index) in items" :key="index">
+        <tr v-for="(item, index) in items" :key="index" :class="{ 'odd-row': index % 2 === 1 }">
           <!-- <td>{{ item.logo }}</td> -->
           <td>{{ item.team_name }}</td>
           <td>{{ item.conference }}</td>
