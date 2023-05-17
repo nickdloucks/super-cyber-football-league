@@ -5,7 +5,8 @@
 
     const props = defineProps<{
         items: Array<TeamDisplay>
-        tableHeader: string
+        tableTitle: string
+        columnHeaders: Array<string>
     }>()
 
 </script>
@@ -25,26 +26,15 @@
     <table class="table">
       <thead>
         <tr>
-          <th colspan="8">{{ props.tableHeader }}</th>
+          <th colspan="8">{{ props.tableTitle }}</th>
         </tr>
         <tr>
-          <!-- <th>Logo</th> -->
-          <th>Team</th>
-          <th>Conference</th>
-          <th>Color 1</th>
-          <th>Color 2</th>
-          <th>Color 3</th>
-          <th>Color 4</th>
-          <!-- <th>Record</th>
-          <th>Win Pct.</th>
-          <th>Conference</th>
-          <th>Conf. Pct.</th>
-          <th>SOS</th>
-          <th>SOV</th> -->
+          <th v-for="header in props.columnHeaders">{{ header }}</th>
         </tr>
       </thead>
       <tbody>
-        <tr v-for="(item, index) in items" :key="index" :class="{ 'odd-row': index % 2 === 1 }">
+        <tr v-for="(item, index) in items" :key="index" :class="{ 'playoffs-cutoff': index === 1 }">
+           <!-- :class="{ 'odd-row': index % 2 === 1 }" -->
           <!-- <td>{{ item.logo }}</td> -->
           <td>{{ item.team_name }}</td>
           <td>{{ item.conference }}</td>
@@ -67,7 +57,7 @@
 <style scoped>
 
 .table {
-  border-collapse: collapse;
+  /* border-collapse: collapse; */
   width: 100%;
 }
 
@@ -86,10 +76,18 @@ th {
 }
 
 tbody:nth-child(-n + 2) {
-  border-bottom: 2px dotted #fff;
+  /* border-bottom: 2px dotted aqua; */
+}
+
+.playoffs-cutoff{
+  border-bottom: #222 dotted;
+  background-color: aqua;
 }
 
 .table-container {
+  padding: 10px;
+  background-color: #f6f6f6;
   overflow-x: auto;
+  border-radius: 8px;
 }
 </style>

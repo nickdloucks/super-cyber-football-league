@@ -1,6 +1,7 @@
 <script setup lang="ts">
   import StandingsTable from './components/StandingsTable.vue'
   import type { TeamDisplay } from './types/team';
+  let standingsHeaders = ['Team', 'Conference', 'Color 1', 'Color 2', 'Color 3', 'Color 4 TEST']
   let teams: Array<TeamDisplay> = [
     // {"team_name", "conference", "color_1", "color_2", "color_3", "color_4"}
     {team_name: "Bats", conference: "NC", color_1: "#4b0082", color_2: "#818181", color_3: "#000", color_4:"#1f1f1f"},
@@ -12,7 +13,7 @@
 </script>
 
 <template>
-  <StandingsTable :items="teams" table-header="Northern Conference"/>
+  <StandingsTable :items="teams" tableTitle="Northern Conference" :columnHeaders="standingsHeaders"/>
 </template>
 
 <style scoped>
