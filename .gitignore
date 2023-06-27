@@ -26,3 +26,9 @@ public/assets/lumen
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+*__pycache__
+scfl-server/Include
+scfl-server/Lib
+scfl-server/Scripts
+scfl-server/pyvenv.cfg
